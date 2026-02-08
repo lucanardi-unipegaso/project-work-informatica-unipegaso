@@ -1,0 +1,1001 @@
+﻿id,title,body,category,priority
+1,Schermo nero all'avvio del PC,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+2,Richiesta supporto su documenti fiscali,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+3,Documenti di offerta,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+4,Errore applicativo: bug,Si verifica bug durante l'avvio.,Tecnico,media
+5,PC non si accende,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,alta
+6,Problema nella chiusura fiscale mensile,Vorrei informazioni su dati anagrafici.,Amministrazione,bassa
+7,Errore durante stampare con stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+8,Documenti di offerta,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+9,Urgenza stampare: stampante bloccato,Serve il setup di stampante sul PC assegnato,Tecnico,media
+10,Richiesta permessi aggiuntivi su portale vendite,Richiedo un'offerta per statistiche di vendita.,Commerciale,bassa
+11,Copia documento contabile,Richiedo duplicato fattura per reinvio al fornitore Urgente.,Amministrazione,media
+12,Ritardo nella spedizione del ordine #12345,Tempi di consegna superati per l'ordine ordine #12345.,Commerciale,media
+13,Dati di fatturazione non aggiornati,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale? Urgente.,Amministrazione,media
+14,Richiesta listino aggiornato,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+15,Problema nella chiusura fiscale mensile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+16,Errore durante la chiusura contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+17,Problema nella chiusura fiscale mensile,Vorrei informazioni su dati anagrafici. Urgente.,Amministrazione,media
+18,Blocco stampa documenti fiscali,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+19,Blocco stampa documenti fiscali,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+20,Anomalia statistiche di vendita,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+21,Informazioni su kpi vendite,Vorrei sapere se è disponibile kpi vendite.,Commerciale,bassa
+22,Blocco stampa documenti fiscali,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+23,Richiesta duplicato documento fiscale,Non è urgente: chiarimenti su iban.,Amministrazione,bassa
+24,Errore applicativo: errore,Si verifica errore durante l'avvio.,Tecnico,media
+25,Copia documento contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+26,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+27,Errore applicativo: bsod,Si verifica bsod durante l'avvio.,Tecnico,media
+28,Verifica aggiornamento dati anagrafici,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+29,Dati di fatturazione non aggiornati,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+30,Il PC non dà segni di vita,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+31,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+32,PC non si accende,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+33,Dati di fatturazione non aggiornati,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+34,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+35,Blocco stampa documenti fiscali,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+36,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+37,La postazione non si avvia,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+38,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+39,Schermo nero all'avvio del PC,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+40,Richiesta permessi aggiuntivi su portale vendite,Vorrei sapere se è disponibile portale vendite.,Commerciale,bassa
+41,Dettagli per anagrafica,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+42,Prodotto non consegnato nei tempi previsti,Il tracking della spedizione ordine #12345 non risulta aggiornato da giorni.,Commerciale,media
+43,Il PC non dà segni di vita,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+44,Richiesta portale vendite,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+45,Errore durante stampare con stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+46,Errore durante stampare con stampante,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+47,Impossibile stampare documenti contabili oggi,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+48,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+49,Problema nella chiusura fiscale mensile,Richiedo dettagli sulla procedura di documenti contabili.,Amministrazione,bassa
+50,Ritardo nella spedizione del ordine #12345,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+51,Dettagli per nota spese,Vorrei informazioni su nota spese.,Amministrazione,bassa
+52,Anomalia statistiche di vendita,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+53,Errore applicativo: schermata blu,Si verifica schermata blu durante l'avvio.,Tecnico,media
+54,Report vendite non aggiornato,Serve il listino aggiornato per una proposta commerciale,Commerciale,media
+55,Installazione stampante su postazione,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+56,Problema nella chiusura fiscale mensile,Non è urgente: chiarimenti su fattura.,Amministrazione,bassa
+57,stampante non risponde,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+58,Problema nella chiusura fiscale mensile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+59,Urgenza stampare: stampante bloccato,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+60,Richiesta supporto su bonifico,Vorrei informazioni su bonifico.,Amministrazione,bassa
+61,Richiesta supporto su dati di fatturazione,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+62,Il PC non dà segni di vita,Il computer della mia postazione non si accende più.,Tecnico,alta
+63,Richiesta permessi aggiuntivi su portale vendite,Vorrei sapere se è disponibile report vendite.,Commerciale,bassa
+64,Verifica aggiornamento dati anagrafici,Non è urgente: chiarimenti su nota spese.,Amministrazione,bassa
+65,Mancata consegna ordine #12345,Tempi di consegna superati per l'ordine ordine #12345.,Commerciale,media
+66,Dashboard vendite con valori incoerenti,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,media
+67,Documenti di offerta,Vorrei sapere se è disponibile listino.,Commerciale,bassa
+68,Configurazione stampante sulla mia postazione,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+69,Impossibile stampare documenti contabili oggi,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+70,Errore durante la chiusura contabile,Richiedo dettagli sulla procedura di iban.,Amministrazione,bassa
+71,Ritardo nella spedizione del merce,"Il merce ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+72,PC non si accende,Il computer della mia postazione non si accende più.,Tecnico,alta
+73,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+74,Anomalia statistiche di vendita,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+75,Informazioni su pagamento,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+76,Informazioni su portale vendite,Richiedo un'offerta per portale vendite.,Commerciale,bassa
+77,Richiesta supporto su estratto conto,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+78,Permessi per modificare condizioni economiche delle offerte,Vorrei sapere se è disponibile report vendite.,Commerciale,bassa
+79,Schermo nero all'avvio del PC,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,alta
+80,La postazione non si avvia,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+81,Richiesta listino aggiornato,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+82,Dettagli per pagamento,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+83,Ritardo nella spedizione del ordine #12345,"Il ordine #12345 ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+84,PC non si accende,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,alta
+85,Impossibile stampare su stampante,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+86,Impossibile stampare documenti contabili oggi,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+87,Anomalia statistiche di vendita,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+88,Richiesta supporto su bonifico,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+89,Mancata consegna componentistica,Il corriere non ha ancora consegnato il componentistica come da accordi.,Commerciale,media
+90,Urgenza stampare: stampante bloccato,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+91,Verifica aggiornamento dati anagrafici,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+92,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+93,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+94,Errore durante la chiusura contabile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+95,Dettagli per bonifico,Vorrei informazioni su bonifico.,Amministrazione,bassa
+96,Errore durante la chiusura contabile,Richiedo dettagli sulla procedura di pagamento.,Amministrazione,bassa
+97,Schermo nero all'avvio del PC,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+98,Informazioni su nota spese,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+99,stampante non risponde,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+100,Informazioni su bonifico,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+101,Prodotto non consegnato nei tempi previsti,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+102,Verifica aggiornamento dati anagrafici,Richiedo dettagli sulla procedura di documenti fiscali.,Amministrazione,bassa
+103,Dashboard vendite con valori incoerenti,Serve il listino aggiornato per una proposta commerciale,Commerciale,media
+104,Schermo nero all'avvio del PC,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+105,Dettagli per pagamento,Vorrei informazioni su pagamento.,Amministrazione,bassa
+106,Il PC non dà segni di vita,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+107,PC non si accende,Il computer della mia postazione non si accende più.,Tecnico,alta
+108,La postazione non si avvia,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+109,PC non si accende,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,alta
+110,La postazione non si avvia,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+111,La postazione non si avvia,Il computer della mia postazione non si accende più.,Tecnico,alta
+112,Verifica aggiornamento dati anagrafici,Non è urgente: chiarimenti su scadenza fiscale.,Amministrazione,bassa
+113,Dati di fatturazione non aggiornati,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+114,Ritardo nella spedizione del prodotto,Tempi di consegna superati per l'ordine prodotto.,Commerciale,media
+115,Richiesta supporto su scadenza fiscale,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+116,Problema nella chiusura fiscale mensile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+117,Report vendite non aggiornato,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+118,Richiesta permessi aggiuntivi su portale vendite,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+119,Permessi per modificare condizioni economiche delle offerte,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+120,Il PC non dà segni di vita,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+121,Errore applicativo: schermata blu,Si verifica schermata blu durante l'avvio.,Tecnico,media
+122,Documenti di offerta,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+123,Dettagli per dati anagrafici,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+124,Richiesta portale vendite,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+125,Problema nella chiusura fiscale mensile,Vorrei informazioni su anagrafica.,Amministrazione,bassa
+126,Richiesta duplicato documento fiscale,Errore critico nella chiusura fiscale: impossibile completare la procedura Urgente.,Amministrazione,media
+127,Problemi con la consegna dell'ordine,Il corriere non ha ancora consegnato il attrezzatura come da accordi.,Commerciale,media
+128,Prodotto non consegnato nei tempi previsti,Ritardo nella consegna: il merce doveva arrivare la settimana scorsa.,Commerciale,media
+129,Impossibile stampare su stampante,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+130,Richiesta supporto su estratto conto,Avrei bisogno di ottenere una copia di un documento fiscale già emesso Urgente.,Amministrazione,media
+131,La postazione non si avvia,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+132,Urgenza stampare: stampante bloccato,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+133,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+134,Installazione stampante su postazione,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+135,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+136,Richiesta supporto su dati anagrafici,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+137,Dettagli per documenti contabili,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+138,Problemi con la consegna dell'ordine,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+139,Verifica aggiornamento dati anagrafici,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+140,Richiesta listino,Richiedo un'offerta per listino.,Commerciale,bassa
+141,Richiesta installazione stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+142,Richiesta permessi aggiuntivi su portale vendite,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+143,Richiesta permessi aggiuntivi su portale vendite,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+144,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+145,Urgenza stampare: stampante bloccato,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+146,Errore durante la chiusura contabile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+147,Richiesta supporto su estratto conto,Richiedo dettagli sulla procedura di estratto conto.,Amministrazione,bassa
+148,Problema nella chiusura fiscale mensile,Vorrei informazioni su scadenza fiscale.,Amministrazione,bassa
+149,Il PC non dà segni di vita,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+150,Copia documento contabile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+151,Documenti di offerta,Richiedo un'offerta per report vendite.,Commerciale,bassa
+152,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+153,Errore applicativo: schermata blu,Si verifica schermata blu durante l'avvio.,Tecnico,media
+154,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+155,Dati di fatturazione non aggiornati,Richiedo duplicato fattura per reinvio al fornitore Urgente.,Amministrazione,media
+156,Richiesta supporto su rimborso spese,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+157,Richiesta duplicato documento fiscale,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+158,Richiesta supporto su documenti contabili,Non è urgente: chiarimenti su documenti contabili.,Amministrazione,bassa
+159,Documenti di offerta,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+160,Installazione stampante su postazione,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+161,Problema nella chiusura fiscale mensile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+162,Impossibile stampare documenti contabili oggi,Serve il setup di stampante sul PC assegnato,Tecnico,media
+163,Errore durante la chiusura contabile,Vorrei informazioni su estratto conto.,Amministrazione,bassa
+164,Richiesta listino aggiornato,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+165,Copia documento contabile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+166,Errore durante stampare con stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+167,Dettagli per bonifico,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+168,Configurazione stampante sulla mia postazione,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+169,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+170,Impossibile stampare documenti contabili oggi,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+171,Problema rete,"Non si collega alla rete, possibile timeout.",Tecnico,media
+172,Richiesta listino aggiornato,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+173,Errore durante la chiusura contabile,Vorrei informazioni su iban.,Amministrazione,bassa
+174,Urgenza stampare: stampante bloccato,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+175,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+176,Verifica aggiornamento dati anagrafici,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+177,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+178,Blocco stampa documenti fiscali,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+179,Mancata consegna attrezzatura,Tempi di consegna superati per l'ordine attrezzatura.,Commerciale,media
+180,La postazione non si avvia,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,media
+181,Prodotto non consegnato nei tempi previsti,Tempi di consegna superati per l'ordine componentistica.,Commerciale,media
+182,Documenti di offerta,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+183,Errore durante stampare con stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+184,Informazioni su nota spese,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+185,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+186,Richiesta supporto su dati di fatturazione,Vorrei informazioni su dati di fatturazione.,Amministrazione,bassa
+187,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+188,PC non si accende,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,alta
+189,Problema nella chiusura fiscale mensile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+190,Problemi con la consegna dell'ordine,Ritardo nella consegna: il attrezzatura doveva arrivare la settimana scorsa.,Commerciale,media
+191,Ritardo consegna,"Il merce ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+192,Blocco stampa documenti fiscali,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+193,Schermo nero all'avvio del PC,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+194,Richiesta permessi aggiuntivi su portale vendite,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+195,Richiesta listino aggiornato,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+196,Report vendite non aggiornato,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,media
+197,Richiesta duplicato documento fiscale,Vorrei informazioni su fattura.,Amministrazione,bassa
+198,Informazioni su documenti contabili,Vorrei informazioni su documenti contabili.,Amministrazione,bassa
+199,Errore durante la chiusura contabile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+200,Schermo nero all'avvio del PC,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,alta
+201,Il PC non dà segni di vita,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+202,Dati di fatturazione non aggiornati,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+203,Copia documento contabile,Vorrei informazioni su dati di fatturazione. Urgente.,Amministrazione,media
+204,Verifica aggiornamento dati anagrafici,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+205,Tracking spedizione non aggiornato,Ritardo nella consegna: il ordine #12345 doveva arrivare la settimana scorsa.,Commerciale,media
+206,Il PC non dà segni di vita,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+207,Errore applicativo: crash,Si verifica crash durante l'avvio.,Tecnico,media
+208,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+209,Verifica aggiornamento dati anagrafici,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+210,Anomalia statistiche di vendita,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+211,Informazioni su documenti contabili,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+212,Richiesta permessi aggiuntivi su portale vendite,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+213,Errore applicativo: errore,Si verifica errore durante l'avvio.,Tecnico,media
+214,Problema nella chiusura fiscale mensile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+215,Schermo nero all'avvio del PC,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,alta
+216,Urgenza stampare: stampante bloccato,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+217,Anomalia statistiche di vendita,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+218,Problema nella chiusura fiscale mensile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+219,Prodotto non consegnato nei tempi previsti,Ritardo nella consegna: il materiale doveva arrivare la settimana scorsa.,Commerciale,media
+220,Richiesta duplicato documento fiscale,Richiedo dettagli sulla procedura di dati di fatturazione.,Amministrazione,bassa
+221,Informazioni su dati di fatturazione,Non è urgente: chiarimenti su dati di fatturazione.,Amministrazione,bassa
+222,Richiesta duplicato documento fiscale,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+223,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+224,Impossibile stampare su stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+225,Permessi per modificare condizioni economiche delle offerte,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+226,PC non si accende,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,alta
+227,Copia documento contabile,Non è urgente: chiarimenti su dati anagrafici.,Amministrazione,bassa
+228,Ritardo consegna,Il corriere non ha ancora consegnato il attrezzatura come da accordi.,Commerciale,media
+229,Schermo nero all'avvio del PC,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,alta
+230,Errore applicativo: crash,Si verifica crash durante l'avvio.,Tecnico,media
+231,Informazioni su dati fatturazione,Richiedo dettagli sulla procedura di dati fatturazione.,Amministrazione,bassa
+232,Prodotto non consegnato nei tempi previsti,"Il attrezzatura ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+233,Errore applicativo: errore,Si verifica errore durante l'avvio.,Tecnico,media
+234,stampante non risponde,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+235,Problema nella chiusura fiscale mensile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+236,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+237,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+238,Dettagli per iban,Non è urgente: chiarimenti su iban.,Amministrazione,bassa
+239,Dati di fatturazione non aggiornati,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+240,stampante non risponde,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+241,Copia documento contabile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti. Urgente.,Amministrazione,media
+242,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+243,Verifica aggiornamento dati anagrafici,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+244,Richiesta listino aggiornato,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+245,PC non si accende,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,alta
+246,Problemi con la consegna dell'ordine,Ritardo nella consegna: il prodotto doveva arrivare la settimana scorsa.,Commerciale,media
+247,Schermo nero all'avvio del PC,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+248,Dettagli per nota spese,Non è urgente: chiarimenti su nota spese.,Amministrazione,bassa
+249,Problema nella chiusura fiscale mensile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+250,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+251,Installazione stampante su postazione,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+252,Dati di fatturazione non aggiornati,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+253,Richiesta duplicato documento fiscale,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+254,Impossibile stampare documenti contabili oggi,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+255,Problema nella chiusura fiscale mensile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+256,Informazioni su kpi vendite,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+257,Verifica aggiornamento dati anagrafici,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+258,Schermo nero all'avvio del PC,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,alta
+259,Errore durante la chiusura contabile,Non è urgente: chiarimenti su bonifico.,Amministrazione,bassa
+260,Il PC non dà segni di vita,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+261,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+262,Informazioni su dati di fatturazione,Richiedo dettagli sulla procedura di dati di fatturazione.,Amministrazione,bassa
+263,Problema nella chiusura fiscale mensile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+264,Errore durante la chiusura contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+265,Errore durante stampare con stampante,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+266,Verifica aggiornamento dati anagrafici,Vorrei informazioni su fattura.,Amministrazione,bassa
+267,Report vendite non aggiornato,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,media
+268,Informazioni su scadenza fiscale,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+269,Problema nella chiusura fiscale mensile,Richiedo dettagli sulla procedura di iban.,Amministrazione,bassa
+270,Il PC non dà segni di vita,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,media
+271,Errore applicativo: aggiornamento,Si verifica aggiornamento durante l'avvio.,Tecnico,media
+272,Anomalia statistiche di vendita,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+273,Errore durante la chiusura contabile,Richiedo dettagli sulla procedura di fattura.,Amministrazione,bassa
+274,Anomalia statistiche di vendita,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+275,PC non si accende,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+276,Dettagli per fattura,Non è urgente: chiarimenti su fattura.,Amministrazione,bassa
+277,Errore applicativo: aggiornamento,Si verifica aggiornamento durante l'avvio.,Tecnico,media
+278,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+279,Dettagli per dati anagrafici,Vorrei informazioni su dati anagrafici.,Amministrazione,bassa
+280,Dettagli per anagrafica,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+281,Tracking spedizione non aggiornato,"Il attrezzatura ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+282,Richiesta listino aggiornato,Vorrei sapere se è disponibile portale vendite.,Commerciale,bassa
+283,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+284,Problema nella chiusura fiscale mensile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+285,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+286,Blocco stampa documenti fiscali,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+287,Impossibile stampare documenti contabili oggi,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+288,Ritardo consegna,Ritardo nella consegna: il materiale doveva arrivare la settimana scorsa.,Commerciale,media
+289,Il PC non dà segni di vita,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+290,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+291,Informazioni su listino,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+292,Errore durante la chiusura contabile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+293,Il computer non parte all'accensione,Il computer della mia postazione non si accende più.,Tecnico,alta
+294,Impossibile stampare su stampante,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+295,Anomalia statistiche di vendita,Vorrei sapere se è disponibile preventivo.,Commerciale,bassa
+296,Informazioni su pagamento,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+297,Errore durante la chiusura contabile,Non è urgente: chiarimenti su nota spese.,Amministrazione,bassa
+298,Impossibile stampare documenti contabili oggi,Serve il setup di stampante sul PC assegnato,Tecnico,media
+299,Dashboard vendite con valori incoerenti,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+300,Impossibile stampare documenti contabili oggi,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+301,Report vendite non aggiornato,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+302,Dettagli per dati di fatturazione,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+303,Errore applicativo: software gestionale abc,Si verifica software gestionale abc durante l'avvio.,Tecnico,media
+304,Verifica aggiornamento dati anagrafici,Vorrei informazioni su scadenza fiscale.,Amministrazione,bassa
+305,Documenti di offerta,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+306,Informazioni su iban,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+307,Prodotto non consegnato nei tempi previsti,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+308,Richiesta installazione stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+309,Copia documento contabile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+310,Ritardo nella spedizione del prodotto,Il tracking della spedizione prodotto non risulta aggiornato da giorni.,Commerciale,media
+311,Il computer non parte all'accensione,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+312,Copia documento contabile,Richiedo dettagli sulla procedura di dati anagrafici.,Amministrazione,bassa
+313,Problema nella chiusura fiscale mensile,Vorrei informazioni su nota spese.,Amministrazione,bassa
+314,Errore durante stampare con stampante,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+315,Impossibile stampare documenti contabili oggi,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+316,Errore applicativo: non si avvia,Si verifica non si avvia durante l'avvio.,Tecnico,media
+317,La postazione non si avvia,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,media
+318,Problemi con la consegna dell'ordine,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+319,Richiesta duplicato documento fiscale,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+320,Richiesta listino aggiornato,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+321,Copia documento contabile,Vorrei informazioni su dati fatturazione.,Amministrazione,bassa
+322,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+323,Informazioni su pagamento,Non è urgente: chiarimenti su pagamento.,Amministrazione,bassa
+324,Il PC non dà segni di vita,Il computer della mia postazione non si accende più.,Tecnico,alta
+325,Urgenza stampare: stampante bloccato,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+326,La postazione non si avvia,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+327,Dati di fatturazione non aggiornati,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+328,Informazioni su dati di fatturazione,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+329,Impossibile stampare su stampante,Serve il setup di stampante sul PC assegnato,Tecnico,media
+330,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+331,Informazioni su preventivo,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+332,La postazione non si avvia,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+333,Dashboard vendite con valori incoerenti,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,media
+334,Errore applicativo: bsod,Si verifica bsod durante l'avvio.,Tecnico,media
+335,Richiesta duplicato documento fiscale,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+336,Informazioni su iban,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+337,Richiesta duplicato documento fiscale,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+338,Prodotto non consegnato nei tempi previsti,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+339,La postazione non si avvia,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+340,Il computer non parte all'accensione,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+341,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+342,Urgenza stampare: stampante bloccato,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+343,Il computer non parte all'accensione,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+344,Copia documento contabile,Vorrei informazioni su rimborso spese.,Amministrazione,bassa
+345,PC non si accende,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+346,Dettagli per documenti contabili,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+347,Copia documento contabile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+348,Richiesta supporto su estratto conto,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+349,Richiesta duplicato documento fiscale,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+350,Richiesta supporto su fattura,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+351,Copia documento contabile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+352,Richiesta duplicato documento fiscale,Richiedo dettagli sulla procedura di rimborso spese.,Amministrazione,bassa
+353,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+354,Richiesta supporto su documenti fiscali,Non è urgente: chiarimenti su documenti fiscali.,Amministrazione,bassa
+355,Configurazione stampante sulla mia postazione,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+356,Report vendite non aggiornato,Serve il listino aggiornato per una proposta commerciale,Commerciale,media
+357,Dati di fatturazione non aggiornati,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+358,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+359,Dettagli per rimborso spese,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+360,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+361,stampante non risponde,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+362,Mancata consegna prodotto,Tempi di consegna superati per l'ordine prodotto.,Commerciale,media
+363,stampante non risponde,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+364,Impossibile stampare documenti contabili oggi,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+365,Anomalia statistiche di vendita,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+366,Richiesta duplicato documento fiscale,Vorrei informazioni su bonifico.,Amministrazione,bassa
+367,Tracking spedizione non aggiornato,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+368,Prodotto non consegnato nei tempi previsti,"Il attrezzatura ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+369,Impossibile stampare documenti contabili oggi,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+370,Informazioni su iban,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+371,Richiesta installazione stampante,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+372,Informazioni su nota spese,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+373,Dati di fatturazione non aggiornati,Richiedo dettagli sulla procedura di estratto conto.,Amministrazione,bassa
+374,Impossibile stampare su stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+375,Richiesta installazione stampante,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+376,Dati di fatturazione non aggiornati,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+377,Dettagli per anagrafica,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+378,Informazioni su portale vendite,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+379,Copia documento contabile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+380,Errore applicativo: crash,Si verifica crash durante l'avvio.,Tecnico,media
+381,Errore applicativo: bug,Si verifica bug durante l'avvio.,Tecnico,media
+382,Ritardo consegna,"Il prodotto ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+383,stampante non risponde,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+384,Report vendite non aggiornato,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+385,Informazioni su nota spese,Non è urgente: chiarimenti su nota spese.,Amministrazione,bassa
+386,Informazioni su statistiche di vendita,Richiedo un'offerta per statistiche di vendita.,Commerciale,bassa
+387,Informazioni su documenti contabili,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+388,Prodotto non consegnato nei tempi previsti,Ritardo nella consegna: il materiale doveva arrivare la settimana scorsa.,Commerciale,media
+389,Dati di fatturazione non aggiornati,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+390,Documenti di offerta,Vorrei sapere se è disponibile portale vendite.,Commerciale,bassa
+391,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+392,Errore applicativo: software gestionale abc,Si verifica software gestionale abc durante l'avvio.,Tecnico,media
+393,Errore applicativo: applicativo gestionale,Si verifica applicativo gestionale durante l'avvio.,Tecnico,media
+394,Richiesta supporto su nota spese,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+395,Dettagli per anagrafica,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+396,Richiesta permessi aggiuntivi su portale vendite,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+397,Richiesta installazione stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+398,Richiesta duplicato documento fiscale,Richiedo dettagli sulla procedura di bonifico.,Amministrazione,bassa
+399,Copia documento contabile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+400,La postazione non si avvia,Il computer della mia postazione non si accende più.,Tecnico,alta
+401,Installazione stampante su postazione,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+402,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+403,Errore durante stampare con stampante,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+404,Errore applicativo: crash,Si verifica crash durante l'avvio.,Tecnico,media
+405,Il computer non parte all'accensione,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+406,Copia documento contabile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+407,Mancata consegna ordine #12345,Ritardo nella consegna: il ordine #12345 doveva arrivare la settimana scorsa.,Commerciale,media
+408,La postazione non si avvia,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+409,Copia documento contabile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+410,Ritardo nella spedizione del materiale,"Il materiale ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+411,PC non si accende,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,alta
+412,Blocco stampa documenti fiscali,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+413,Informazioni su statistiche di vendita,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+414,Copia documento contabile,Richiedo dettagli sulla procedura di nota spese.,Amministrazione,bassa
+415,PC non si accende,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,alta
+416,Verifica aggiornamento dati anagrafici,Non è urgente: chiarimenti su estratto conto.,Amministrazione,bassa
+417,Problema nella chiusura fiscale mensile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+418,Ritardo nella spedizione del attrezzatura,Il tracking della spedizione attrezzatura non risulta aggiornato da giorni.,Commerciale,media
+419,Copia documento contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+420,Mancata consegna merce,"Il merce ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+421,Il PC non dà segni di vita,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+422,Errore applicativo: bsod,Si verifica bsod durante l'avvio.,Tecnico,media
+423,Installazione stampante su postazione,Serve il setup di stampante sul PC assegnato,Tecnico,media
+424,Informazioni su dati anagrafici,Richiedo dettagli sulla procedura di dati anagrafici.,Amministrazione,bassa
+425,Errore applicativo: software gestionale,Si verifica software gestionale durante l'avvio.,Tecnico,media
+426,Documenti di offerta,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+427,Dettagli per bonifico,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+428,Dati di fatturazione non aggiornati,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+429,Il PC non dà segni di vita,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,media
+430,Problemi con la consegna dell'ordine,Tempi di consegna superati per l'ordine prodotto.,Commerciale,media
+431,Informazioni su dati fatturazione,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+432,Prodotto non consegnato nei tempi previsti,Tempi di consegna superati per l'ordine ordine #12345.,Commerciale,media
+433,Richiesta kpi vendite,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+434,Richiesta duplicato documento fiscale,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+435,Problemi con la consegna dell'ordine,Ritardo nella consegna: il ordine #12345 doveva arrivare la settimana scorsa.,Commerciale,media
+436,Dati di fatturazione non aggiornati,Vorrei informazioni su anagrafica.,Amministrazione,bassa
+437,stampante non risponde,Serve il setup di stampante sul PC assegnato,Tecnico,media
+438,Richiesta supporto su dati di fatturazione,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+439,Documenti di offerta,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+440,Verifica aggiornamento dati anagrafici,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+441,Tracking spedizione non aggiornato,Il tracking della spedizione prodotto non risulta aggiornato da giorni.,Commerciale,media
+442,Richiesta duplicato documento fiscale,Non è urgente: chiarimenti su documenti fiscali.,Amministrazione,bassa
+443,Richiesta installazione stampante,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+444,Errore applicativo: crash,Si verifica crash durante l'avvio.,Tecnico,media
+445,Dashboard vendite con valori incoerenti,Richiedo un'offerta per report vendite.,Commerciale,media
+446,La postazione non si avvia,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,media
+447,Richiesta duplicato documento fiscale,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+448,Richiesta installazione stampante,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+449,Impossibile stampare documenti contabili oggi,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+450,La postazione non si avvia,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+451,Permessi per modificare condizioni economiche delle offerte,Richiedo un'offerta per listino.,Commerciale,bassa
+452,Richiesta supporto su fattura,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+453,Dettagli per rimborso spese,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+454,Richiesta supporto su documenti contabili,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+455,Impossibile stampare su stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+456,Informazioni su iban,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+457,Errore applicativo: bug,Si verifica bug durante l'avvio.,Tecnico,media
+458,Urgenza stampare: stampante bloccato,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+459,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+460,Richiesta installazione stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+461,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+462,Report vendite non aggiornato,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,media
+463,Verifica aggiornamento dati anagrafici,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+464,Richiesta listino aggiornato,Vorrei sapere se è disponibile listino.,Commerciale,bassa
+465,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+466,Verifica aggiornamento dati anagrafici,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+467,Prodotto non consegnato nei tempi previsti,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+468,Richiesta duplicato documento fiscale,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+469,Report vendite non aggiornato,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+470,Richiesta dati vendite,Richiedo un'offerta per dati vendite.,Commerciale,bassa
+471,Il PC non dà segni di vita,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+472,Errore durante la chiusura contabile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+473,Copia documento contabile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+474,Il PC non dà segni di vita,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+475,Errore applicativo: errore,Si verifica errore durante l'avvio.,Tecnico,media
+476,Blocco stampa documenti fiscali,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+477,Richiesta listino aggiornato,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+478,Documenti di offerta,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+479,Errore durante la chiusura contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura Urgente.,Amministrazione,media
+480,PC non si accende,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+481,Impossibile stampare su stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+482,Problema nella chiusura fiscale mensile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+483,Verifica aggiornamento dati anagrafici,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+484,Informazioni su listino,Vorrei sapere se è disponibile listino.,Commerciale,bassa
+485,Prodotto non consegnato nei tempi previsti,Tempi di consegna superati per l'ordine materiale.,Commerciale,media
+486,Dettagli per documenti contabili,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+487,Richiesta dashboard vendite,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+488,Anomalia statistiche di vendita,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+489,Richiesta permessi aggiuntivi su portale vendite,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+490,Anomalia statistiche di vendita,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+491,Richiesta duplicato documento fiscale,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+492,Ritardo nella spedizione del prodotto,Il corriere non ha ancora consegnato il prodotto come da accordi.,Commerciale,media
+493,Dettagli per pagamento,Non è urgente: chiarimenti su pagamento.,Amministrazione,bassa
+494,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+495,Richiesta supporto su iban,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+496,Problema nella chiusura fiscale mensile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+497,Informazioni su iban,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+498,stampante non risponde,Serve il setup di stampante sul PC assegnato,Tecnico,media
+499,Copia documento contabile,Richiedo dettagli sulla procedura di anagrafica.,Amministrazione,bassa
+500,Permessi per modificare condizioni economiche delle offerte,Vorrei sapere se è disponibile preventivo.,Commerciale,bassa
+501,Errore applicativo: non si avvia,Si verifica non si avvia durante l'avvio.,Tecnico,media
+502,Errore durante stampare con stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+503,Verifica aggiornamento dati anagrafici,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+504,Errore durante la chiusura contabile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+505,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+506,Errore applicativo: bsod,Si verifica bsod durante l'avvio.,Tecnico,media
+507,Impossibile stampare su stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+508,Report vendite non aggiornato,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,media
+509,Dati di fatturazione non aggiornati,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+510,Dettagli per anagrafica,Non è urgente: chiarimenti su anagrafica.,Amministrazione,bassa
+511,Documenti di offerta,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+512,Richiesta duplicato documento fiscale,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+513,Dati di fatturazione non aggiornati,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+514,Impossibile stampare su stampante,Serve il setup di stampante sul PC assegnato,Tecnico,media
+515,Permessi per modificare condizioni economiche delle offerte,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+516,Richiesta duplicato documento fiscale,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+517,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+518,Installazione stampante su postazione,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+519,Richiesta supporto su dati anagrafici,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+520,Tracking spedizione non aggiornato,Il corriere non ha ancora consegnato il attrezzatura come da accordi.,Commerciale,media
+521,Verifica aggiornamento dati anagrafici,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+522,Errore applicativo: crash,Si verifica crash durante l'avvio.,Tecnico,media
+523,Permessi per modificare condizioni economiche delle offerte,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+524,Errore applicativo: applicativo gestionale,Si verifica applicativo gestionale durante l'avvio.,Tecnico,media
+525,Richiesta permessi aggiuntivi su portale vendite,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+526,Configurazione stampante sulla mia postazione,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+527,Il computer non parte all'accensione,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+528,La postazione non si avvia,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+529,Dati di fatturazione non aggiornati,Richiedo dettagli sulla procedura di iban.,Amministrazione,bassa
+530,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+531,Prodotto non consegnato nei tempi previsti,Ritardo nella consegna: il prodotto doveva arrivare la settimana scorsa.,Commerciale,media
+532,Il PC non dà segni di vita,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,media
+533,Dashboard vendite con valori incoerenti,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,media
+534,Ritardo nella spedizione del merce,Il corriere non ha ancora consegnato il merce come da accordi.,Commerciale,media
+535,Richiesta supporto su fattura,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+536,Ritardo nella spedizione del materiale,Il corriere non ha ancora consegnato il materiale come da accordi.,Commerciale,media
+537,Configurazione stampante sulla mia postazione,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+538,Errore durante la chiusura contabile,Richiedo dettagli sulla procedura di nota spese.,Amministrazione,bassa
+539,Richiesta duplicato documento fiscale,Vorrei informazioni su bonifico.,Amministrazione,bassa
+540,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+541,Installazione stampante su postazione,Serve il setup di stampante sul PC assegnato,Tecnico,media
+542,Richiesta supporto su rimborso spese,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+543,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+544,Schermo nero all'avvio del PC,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,alta
+545,Verifica aggiornamento dati anagrafici,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+546,Report vendite non aggiornato,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+547,Dashboard vendite con valori incoerenti,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+548,Informazioni su portale vendite,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+549,Impossibile stampare su stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+550,Dashboard vendite con valori incoerenti,Richiedo un'offerta per portale vendite.,Commerciale,media
+551,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+552,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+553,Report vendite non aggiornato,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,media
+554,Errore durante la chiusura contabile,Richiedo dettagli sulla procedura di anagrafica.,Amministrazione,bassa
+555,Dettagli per dati fatturazione,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+556,Schermo nero all'avvio del PC,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+557,Blocco stampa documenti fiscali,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+558,Verifica aggiornamento dati anagrafici,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+559,Anomalia statistiche di vendita,Vorrei sapere se è disponibile statistiche di vendita.,Commerciale,bassa
+560,Il PC non dà segni di vita,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+561,Richiesta duplicato documento fiscale,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+562,Impossibile stampare documenti contabili oggi,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+563,Dati di fatturazione non aggiornati,Richiedo dettagli sulla procedura di documenti contabili.,Amministrazione,bassa
+564,La postazione non si avvia,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+565,Schermo nero all'avvio del PC,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,alta
+566,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+567,Verifica aggiornamento dati anagrafici,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+568,Richiesta permessi aggiuntivi su portale vendite,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+569,Errore applicativo: schermata blu,Si verifica schermata blu durante l'avvio.,Tecnico,media
+570,stampante non risponde,Serve il setup di stampante sul PC assegnato,Tecnico,media
+571,Informazioni su estratto conto,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+572,Mancata consegna materiale,Il corriere non ha ancora consegnato il materiale come da accordi.,Commerciale,media
+573,Richiesta supporto su rimborso spese,Richiedo duplicato fattura per reinvio al fornitore Urgente.,Amministrazione,media
+574,Problema nella chiusura fiscale mensile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+575,Mancata consegna merce,"Il merce ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+576,Verifica aggiornamento dati anagrafici,Non è urgente: chiarimenti su estratto conto.,Amministrazione,bassa
+577,La postazione non si avvia,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+578,La postazione non si avvia,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+579,Anomalia statistiche di vendita,Richiedo un'offerta per preventivo.,Commerciale,bassa
+580,Dati di fatturazione non aggiornati,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+581,Schermo nero all'avvio del PC,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,alta
+582,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+583,Prodotto non consegnato nei tempi previsti,Tempi di consegna superati per l'ordine materiale.,Commerciale,media
+584,Richiesta listino aggiornato,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+585,Copia documento contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+586,Tracking spedizione non aggiornato,Il corriere non ha ancora consegnato il componentistica come da accordi.,Commerciale,media
+587,Impossibile stampare documenti contabili oggi,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+588,Verifica aggiornamento dati anagrafici,Non è urgente: chiarimenti su documenti contabili.,Amministrazione,bassa
+589,Dati di fatturazione non aggiornati,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+590,Dashboard vendite con valori incoerenti,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+591,Impossibile stampare su stampante,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+592,Il PC non dà segni di vita,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,media
+593,Verifica aggiornamento dati anagrafici,Non è urgente: chiarimenti su pagamento.,Amministrazione,bassa
+594,Problema nella chiusura fiscale mensile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+595,Il PC non dà segni di vita,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,media
+596,Richiesta duplicato documento fiscale,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+597,Richiesta installazione stampante,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+598,Richiesta supporto su documenti contabili,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+599,Errore durante stampare con stampante,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+600,Configurazione stampante sulla mia postazione,Serve il setup di stampante sul PC assegnato,Tecnico,media
+601,Richiesta duplicato documento fiscale,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+602,Installazione stampante su postazione,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+603,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+604,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+605,Dati di fatturazione non aggiornati,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+606,Informazioni su nota spese,Richiedo duplicato fattura per reinvio al fornitore Urgente.,Amministrazione,media
+607,Richiesta installazione stampante,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+608,Richiesta duplicato documento fiscale,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+609,Errore applicativo: software gestionale,Si verifica software gestionale durante l'avvio.,Tecnico,media
+610,Copia documento contabile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+611,Richiesta supporto su dati di fatturazione,Vorrei informazioni su dati di fatturazione.,Amministrazione,bassa
+612,Errore durante la chiusura contabile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+613,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+614,Tracking spedizione non aggiornato,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+615,Dettagli per rimborso spese,Richiedo dettagli sulla procedura di rimborso spese.,Amministrazione,bassa
+616,Documenti di offerta,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+617,Prodotto non consegnato nei tempi previsti,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+618,Informazioni su statistiche di vendita,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+619,Dettagli per documenti fiscali,Non è urgente: chiarimenti su documenti fiscali.,Amministrazione,bassa
+620,Richiesta supporto su dati fatturazione,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+621,Richiesta duplicato documento fiscale,Non è urgente: chiarimenti su dati anagrafici.,Amministrazione,bassa
+622,Errore durante stampare con stampante,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+623,Richiesta installazione stampante,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+624,Ritardo consegna,Tempi di consegna superati per l'ordine materiale.,Commerciale,media
+625,Richiesta listino aggiornato,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+626,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+627,Documenti di offerta,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+628,Anomalia statistiche di vendita,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+629,Ritardo consegna,Tempi di consegna superati per l'ordine merce.,Commerciale,media
+630,Errore durante la chiusura contabile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+631,Errore applicativo: non si avvia,Si verifica non si avvia durante l'avvio.,Tecnico,media
+632,Documenti di offerta,Richiedo un'offerta per kpi vendite.,Commerciale,bassa
+633,Informazioni su dati di fatturazione,Vorrei informazioni su dati di fatturazione.,Amministrazione,bassa
+634,Dati di fatturazione non aggiornati,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+635,Informazioni su pagamento,Richiedo dettagli sulla procedura di pagamento.,Amministrazione,bassa
+636,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+637,Installazione stampante su postazione,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+638,Il PC non dà segni di vita,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+639,Il PC non dà segni di vita,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,media
+640,Problema dns,"Non si collega alla dns, possibile timeout.",Tecnico,media
+641,Problema nella chiusura fiscale mensile,Vorrei informazioni su dati fatturazione.,Amministrazione,bassa
+642,Dati di fatturazione non aggiornati,Vorrei informazioni su anagrafica.,Amministrazione,bassa
+643,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+644,Dettagli per dati anagrafici,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+645,Documenti di offerta,Vorrei sapere se è disponibile report vendite.,Commerciale,bassa
+646,Verifica aggiornamento dati anagrafici,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+647,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+648,Dati di fatturazione non aggiornati,Non è urgente: chiarimenti su rimborso spese.,Amministrazione,bassa
+649,Errore durante la chiusura contabile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+650,Copia documento contabile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+651,Documenti di offerta,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+652,Richiesta duplicato documento fiscale,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+653,Informazioni su scadenza fiscale,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+654,Documenti di offerta,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+655,Dati di fatturazione non aggiornati,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+656,Impossibile stampare su stampante,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+657,Problema nella chiusura fiscale mensile,Non è urgente: chiarimenti su dati di fatturazione.,Amministrazione,bassa
+658,Documenti di offerta,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+659,Dashboard vendite con valori incoerenti,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+660,Richiesta statistiche di vendita,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+661,Schermo nero all'avvio del PC,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+662,Copia documento contabile,Richiedo dettagli sulla procedura di anagrafica.,Amministrazione,bassa
+663,Richiesta supporto su dati di fatturazione,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+664,Dettagli per scadenza fiscale,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+665,Schermo nero all'avvio del PC,Il computer della mia postazione non si accende più.,Tecnico,alta
+666,Schermo nero all'avvio del PC,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+667,Errore applicativo: non si avvia,Si verifica non si avvia durante l'avvio.,Tecnico,media
+668,La postazione non si avvia,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+669,Report vendite non aggiornato,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,media
+670,Dati di fatturazione non aggiornati,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+671,Dettagli per anagrafica,Non è urgente: chiarimenti su anagrafica.,Amministrazione,bassa
+672,Configurazione stampante sulla mia postazione,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+673,Informazioni su kpi vendite,Richiedo un'offerta per kpi vendite.,Commerciale,bassa
+674,Dettagli per iban,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+675,Configurazione stampante sulla mia postazione,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+676,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+677,Verifica aggiornamento dati anagrafici,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+678,PC non si accende,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,alta
+679,Dati di fatturazione non aggiornati,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+680,Dettagli per rimborso spese,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+681,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+682,Il computer non parte all'accensione,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+683,Dettagli per anagrafica,Richiedo dettagli sulla procedura di anagrafica.,Amministrazione,bassa
+684,Informazioni su documenti contabili,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione Urgente.,Amministrazione,media
+685,Dettagli per documenti fiscali,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+686,PC non si accende,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+687,Errore applicativo: applicativo gestionale,Si verifica applicativo gestionale durante l'avvio.,Tecnico,media
+688,stampante non risponde,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+689,Documenti di offerta,Vorrei sapere se è disponibile listino.,Commerciale,bassa
+690,Schermo nero all'avvio del PC,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+691,Impossibile stampare su stampante,Serve il setup di stampante sul PC assegnato,Tecnico,media
+692,Copia documento contabile,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+693,Errore durante la chiusura contabile,Vorrei informazioni su nota spese.,Amministrazione,bassa
+694,Prodotto non consegnato nei tempi previsti,Il tracking della spedizione ordine #12345 non risulta aggiornato da giorni.,Commerciale,media
+695,Informazioni su documenti fiscali,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+696,Schermo nero all'avvio del PC,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,alta
+697,Errore applicativo: schermata blu,Si verifica schermata blu durante l'avvio.,Tecnico,media
+698,Impossibile stampare documenti contabili oggi,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+699,Dettagli per pagamento,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+700,Richiesta duplicato documento fiscale,Vorrei informazioni su iban.,Amministrazione,bassa
+701,Mancata consegna materiale,"Il materiale ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+702,Verifica aggiornamento dati anagrafici,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+703,Richiesta supporto su scadenza fiscale,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+704,Richiesta permessi aggiuntivi su portale vendite,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+705,Richiesta listino aggiornato,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+706,Informazioni su estratto conto,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+707,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+708,Copia documento contabile,Vorrei informazioni su pagamento.,Amministrazione,bassa
+709,Ritardo nella spedizione del attrezzatura,Il tracking della spedizione attrezzatura non risulta aggiornato da giorni.,Commerciale,media
+710,Richiesta installazione stampante,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+711,Problema nella chiusura fiscale mensile,Vorrei informazioni su scadenza fiscale.,Amministrazione,bassa
+712,Errore applicativo: non si avvia,Si verifica non si avvia durante l'avvio.,Tecnico,media
+713,Dati di fatturazione non aggiornati,Non è urgente: chiarimenti su bonifico. Urgente.,Amministrazione,media
+714,Report vendite non aggiornato,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+715,Blocco stampa documenti fiscali,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+716,Dettagli per dati anagrafici,Richiedo dettagli sulla procedura di dati anagrafici.,Amministrazione,bassa
+717,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+718,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+719,Richiesta duplicato documento fiscale,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+720,Problema nella chiusura fiscale mensile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+721,Richiesta installazione stampante,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+722,Informazioni su dati fatturazione,Vorrei informazioni su dati fatturazione.,Amministrazione,bassa
+723,Errore applicativo: applicativo gestionale,Si verifica applicativo gestionale durante l'avvio.,Tecnico,media
+724,Richiesta report vendite,Richiedo un'offerta per report vendite.,Commerciale,bassa
+725,Errore applicativo: software gestionale,Si verifica software gestionale durante l'avvio.,Tecnico,media
+726,Schermo nero all'avvio del PC,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,alta
+727,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+728,Permessi per modificare condizioni economiche delle offerte,Richiedo un'offerta per preventivo.,Commerciale,bassa
+729,Richiesta supporto su anagrafica,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+730,Impossibile stampare su stampante,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+731,Permessi per modificare condizioni economiche delle offerte,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+732,Schermo nero all'avvio del PC,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,alta
+733,Verifica aggiornamento dati anagrafici,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+734,stampante non risponde,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+735,Schermo nero all'avvio del PC,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+736,Informazioni su listino,Richiedo un'offerta per listino.,Commerciale,bassa
+737,Mancata consegna componentistica,Tempi di consegna superati per l'ordine componentistica.,Commerciale,media
+738,Informazioni su bonifico,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+739,Richiesta permessi aggiuntivi su portale vendite,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+740,Il computer non parte all'accensione,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,media
+741,Errore durante la chiusura contabile,Richiedo dettagli sulla procedura di iban.,Amministrazione,bassa
+742,Ritardo consegna,Il corriere non ha ancora consegnato il merce come da accordi.,Commerciale,media
+743,Dati di fatturazione non aggiornati,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+744,Dashboard vendite con valori incoerenti,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,media
+745,Richiesta installazione stampante,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+746,Problema rete,"Non si collega alla rete, possibile timeout.",Tecnico,media
+747,La postazione non si avvia,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+748,Dettagli per dati di fatturazione,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+749,Richiesta listino aggiornato,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+750,Problema nella chiusura fiscale mensile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+751,Ritardo consegna,Il corriere non ha ancora consegnato il attrezzatura come da accordi.,Commerciale,media
+752,Errore durante la chiusura contabile,Non è urgente: chiarimenti su dati di fatturazione.,Amministrazione,bassa
+753,Il PC non dà segni di vita,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+754,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+755,Il computer non parte all'accensione,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+756,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+757,Problema nella chiusura fiscale mensile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+758,Report vendite non aggiornato,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+759,Errore applicativo: software gestionale,Si verifica software gestionale durante l'avvio.,Tecnico,media
+760,Il computer non parte all'accensione,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+761,Errore durante la chiusura contabile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+762,Impossibile stampare documenti contabili oggi,Serve il setup di stampante sul PC assegnato,Tecnico,media
+763,Richiesta duplicato documento fiscale,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+764,Tracking spedizione non aggiornato,Il corriere non ha ancora consegnato il componentistica come da accordi.,Commerciale,media
+765,Richiesta duplicato documento fiscale,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+766,Errore applicativo: applicativo gestionale,Si verifica applicativo gestionale durante l'avvio.,Tecnico,media
+767,Richiesta permessi aggiuntivi su portale vendite,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+768,Impossibile stampare documenti contabili oggi,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+769,Installazione stampante su postazione,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+770,Informazioni su iban,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+771,Dettagli per dati di fatturazione,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+772,Problema nella chiusura fiscale mensile,Vorrei informazioni su estratto conto.,Amministrazione,bassa
+773,Errore applicativo: non si avvia,Si verifica non si avvia durante l'avvio.,Tecnico,media
+774,Informazioni su nota spese,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+775,Report vendite non aggiornato,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,media
+776,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+777,Ritardo consegna,Il corriere non ha ancora consegnato il merce come da accordi.,Commerciale,media
+778,Urgenza stampare: stampante bloccato,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+779,Impossibile stampare su stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+780,Richiesta supporto su nota spese,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+781,Richiesta report vendite,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+782,Ritardo nella spedizione del componentistica,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+783,Report vendite non aggiornato,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,media
+784,Informazioni su nota spese,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+785,Richiesta duplicato documento fiscale,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+786,Dashboard vendite con valori incoerenti,Serve il listino aggiornato per una proposta commerciale,Commerciale,media
+787,Copia documento contabile,Richiedo dettagli sulla procedura di dati fatturazione.,Amministrazione,bassa
+788,Errore durante la chiusura contabile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+789,Documenti di offerta,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+790,Errore applicativo: errore,Si verifica errore durante l'avvio.,Tecnico,media
+791,Verifica aggiornamento dati anagrafici,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+792,Verifica aggiornamento dati anagrafici,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+793,Informazioni su iban,Richiedo dettagli sulla procedura di iban.,Amministrazione,bassa
+794,Dettagli per scadenza fiscale,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+795,Copia documento contabile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+796,La postazione non si avvia,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+797,PC non si accende,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+798,Problema rete,"Non si collega alla rete, possibile timeout.",Tecnico,media
+799,Il PC non dà segni di vita,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+800,Errore applicativo: software gestionale abc,Si verifica software gestionale abc durante l'avvio.,Tecnico,media
+801,Informazioni su nota spese,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+802,Problema rete,"Non si collega alla rete, possibile timeout.",Tecnico,media
+803,Errore applicativo: bug,Si verifica bug durante l'avvio.,Tecnico,media
+804,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+805,Schermo nero all'avvio del PC,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+806,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+807,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+808,Schermo nero all'avvio del PC,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,alta
+809,Problema nella chiusura fiscale mensile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+810,Errore durante stampare con stampante,Serve il setup di stampante sul PC assegnato,Tecnico,media
+811,Schermo nero all'avvio del PC,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+812,Problema rete,"Non si collega alla rete, possibile timeout.",Tecnico,media
+813,Impossibile stampare su stampante,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+814,PC non si accende,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,alta
+815,Tracking spedizione non aggiornato,Tempi di consegna superati per l'ordine materiale.,Commerciale,media
+816,Errore applicativo: bug,Si verifica bug durante l'avvio.,Tecnico,media
+817,Installazione stampante su postazione,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+818,Errore applicativo: applicativo gestionale,Si verifica applicativo gestionale durante l'avvio.,Tecnico,media
+819,Problema nella chiusura fiscale mensile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+820,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+821,Errore applicativo: software gestionale,Si verifica software gestionale durante l'avvio.,Tecnico,media
+822,Copia documento contabile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito? Urgente.,Amministrazione,media
+823,Richiesta installazione stampante,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+824,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+825,Problema rete,"Non si collega alla rete, possibile timeout.",Tecnico,media
+826,stampante non risponde,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+827,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+828,Richiesta supporto su anagrafica,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+829,Schermo nero all'avvio del PC,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+830,Schermo nero all'avvio del PC,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+831,PC non si accende,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+832,Tracking spedizione non aggiornato,"Il merce ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+833,Richiesta duplicato documento fiscale,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+834,Verifica aggiornamento dati anagrafici,Richiedo dettagli sulla procedura di dati di fatturazione.,Amministrazione,bassa
+835,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+836,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+837,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+838,Errore durante stampare con stampante,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+839,Richiesta duplicato documento fiscale,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+840,Verifica aggiornamento dati anagrafici,Richiedo dettagli sulla procedura di nota spese.,Amministrazione,bassa
+841,Richiesta listino aggiornato,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+842,Schermo nero all'avvio del PC,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,alta
+843,Dati di fatturazione non aggiornati,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+844,Il PC non dà segni di vita,"All'accensione, il PC non parte: ventole ferme, nessuna luce.",Tecnico,media
+845,Copia documento contabile,Vorrei informazioni su nota spese.,Amministrazione,bassa
+846,Prodotto non consegnato nei tempi previsti,Tempi di consegna superati per l'ordine attrezzatura.,Commerciale,media
+847,Copia documento contabile,Vorrei informazioni su scadenza fiscale.,Amministrazione,bassa
+848,Problema nella chiusura fiscale mensile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+849,Dati di fatturazione non aggiornati,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+850,Dettagli per scadenza fiscale,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+851,Richiesta duplicato documento fiscale,Vorrei informazioni su estratto conto.,Amministrazione,bassa
+852,Errore applicativo: schermata blu,Si verifica schermata blu durante l'avvio.,Tecnico,media
+853,Errore durante stampare con stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+854,Configurazione stampante sulla mia postazione,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+855,Installazione stampante su postazione,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+856,Problema nella chiusura fiscale mensile,Vorrei informazioni su dati anagrafici.,Amministrazione,bassa
+857,Errore durante la chiusura contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+858,Richiesta duplicato documento fiscale,Vorrei informazioni su fattura.,Amministrazione,bassa
+859,Informazioni su dati anagrafici,Richiedo verifica aggiornamento dati di fatturazione nel gestionale: risultano ancora i precedenti.,Amministrazione,bassa
+860,Impossibile stampare su stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+861,Schermo nero all'avvio del PC,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,alta
+862,Richiesta statistiche di vendita,Vorrei sapere se è disponibile statistiche di vendita.,Commerciale,bassa
+863,Richiesta permessi aggiuntivi su portale vendite,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+864,Errore durante la chiusura contabile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+865,Documenti di offerta,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+866,Documenti di offerta,Richiedo un'offerta per dashboard vendite.,Commerciale,bassa
+867,Problema connessione,"Non si collega alla connessione, possibile timeout.",Tecnico,media
+868,Blocco stampa documenti fiscali,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+869,Problemi con la consegna dell'ordine,Ritardo nella consegna: il componentistica doveva arrivare la settimana scorsa.,Commerciale,media
+870,Errore applicativo: bsod,Si verifica bsod durante l'avvio.,Tecnico,media
+871,Dettagli per dati anagrafici,Richiedo dettagli sulla procedura di dati anagrafici.,Amministrazione,bassa
+872,Prodotto non consegnato nei tempi previsti,"Il attrezzatura ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+873,Installazione stampante su postazione,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+874,Urgenza stampare: stampante bloccato,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+875,Problema nella chiusura fiscale mensile,Richiedo dettagli sulla procedura di nota spese.,Amministrazione,bassa
+876,Dati di fatturazione non aggiornati,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+877,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+878,Configurazione stampante sulla mia postazione,Serve il setup di stampante sul PC assegnato,Tecnico,media
+879,Impossibile stampare su stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+880,Dati di fatturazione non aggiornati,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+881,Richiesta duplicato documento fiscale,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+882,Problema rete,"Non si collega alla rete, possibile timeout.",Tecnico,media
+883,La postazione non si avvia,Il computer della mia postazione non si accende più.,Tecnico,alta
+884,stampante non risponde,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+885,Il computer non parte all'accensione,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+886,Ritardo consegna,Il tracking della spedizione componentistica non risulta aggiornato da giorni.,Commerciale,media
+887,Richiesta permessi aggiuntivi su portale vendite,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+888,Mancata consegna attrezzatura,Tempi di consegna superati per l'ordine attrezzatura.,Commerciale,media
+889,Richiesta kpi vendite,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+890,Installazione stampante su postazione,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+891,Report vendite non aggiornato,Richiedo un'offerta per kpi vendite.,Commerciale,media
+892,Report vendite non aggiornato,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+893,Errore durante la chiusura contabile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+894,Richiesta duplicato documento fiscale,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+895,Documenti di offerta,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+896,Informazioni su dati anagrafici,Non è urgente: chiarimenti su dati anagrafici. Urgente.,Amministrazione,media
+897,Schermo nero all'avvio del PC,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+898,Errore applicativo: schermata blu,Si verifica schermata blu durante l'avvio.,Tecnico,media
+899,Blocco stampa documenti fiscali,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+900,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+901,Richiesta supporto su scadenza fiscale,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+902,Dettagli per fattura,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+903,Copia documento contabile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+904,Errore applicativo: non si avvia,Si verifica non si avvia durante l'avvio.,Tecnico,media
+905,Permessi per modificare condizioni economiche delle offerte,Vorrei sapere se è disponibile kpi vendite.,Commerciale,bassa
+906,Problema nella chiusura fiscale mensile,Richiedo dettagli sulla procedura di estratto conto.,Amministrazione,bassa
+907,Tracking spedizione non aggiornato,Ritardo nella consegna: il merce doveva arrivare la settimana scorsa.,Commerciale,media
+908,Problema nella chiusura fiscale mensile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l'operazione,Amministrazione,bassa
+909,Copia documento contabile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+910,stampante non risponde,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+911,Ritardo nella spedizione del ordine #12345,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+912,Errore durante la chiusura contabile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+913,Informazioni su report vendite,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+914,Report vendite non aggiornato,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+915,Errore durante la chiusura contabile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+916,Anomalia statistiche di vendita,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+917,Errore applicativo: software gestionale,Si verifica software gestionale durante l'avvio.,Tecnico,media
+918,Mancata consegna merce,Il corriere non ha ancora consegnato il merce come da accordi.,Commerciale,media
+919,Dashboard vendite con valori incoerenti,Il report vendite mostra valori incoerenti rispetto ai dati reali.,Commerciale,media
+920,Richiesta listino aggiornato,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+921,Informazioni su dati fatturazione,Vorrei informazioni su dati fatturazione.,Amministrazione,bassa
+922,Ritardo nella spedizione del merce,"Il merce ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+923,Urgenza stampare: stampante bloccato,Coda di stampa bloccata; necessità immediata di stampare.,Tecnico,media
+924,Urgenza stampare: stampante bloccato,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+925,Problema nella chiusura fiscale mensile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+926,Blocco stampa documenti fiscali,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+927,Impossibile stampare su stampante,Dobbiamo stampare documenti; la stampante è inattiva.,Tecnico,media
+928,Verifica aggiornamento dati anagrafici,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+929,Blocco stampa documenti fiscali,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+930,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+931,Verifica aggiornamento dati anagrafici,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+932,Configurazione stampante sulla mia postazione,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+933,Problema nella chiusura fiscale mensile,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+934,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+935,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+936,Anomalia statistiche di vendita,Le statistiche di vendita mostrate nel portale non sono aggiornate.,Commerciale,bassa
+937,Errore durante la chiusura contabile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito? Urgente.,Amministrazione,media
+938,Problema nella chiusura fiscale mensile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+939,Il computer non parte all'accensione,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,media
+940,Problema nella chiusura fiscale mensile,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+941,Tracking spedizione non aggiornato,Il prodotto o servizio non è stato consegnato nei tempi previsti.,Commerciale,media
+942,Richiesta duplicato documento fiscale,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+943,Permessi per modificare condizioni economiche delle offerte,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+944,Mancata consegna merce,Il tracking della spedizione merce non risulta aggiornato da giorni.,Commerciale,media
+945,Il PC non dà segni di vita,Il PC non si accende; cavo e alimentazione già controllati.,Tecnico,alta
+946,Permessi per modificare condizioni economiche delle offerte,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+947,Richiesta kpi vendite,Avrei bisogno di permessi aggiuntivi sul portale vendite per modificare le offerte,Commerciale,bassa
+948,Errore applicativo: applicativo gestionale,Si verifica applicativo gestionale durante l'avvio.,Tecnico,media
+949,Problema vpn,"Non si collega alla vpn, possibile timeout.",Tecnico,media
+950,stampante non risponde,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+951,Informazioni su dati anagrafici,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+952,Informazioni su dati anagrafici,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+953,Prodotto non consegnato nei tempi previsti,"Il componentistica ordinato non è ancora arrivato, nonostante la scadenza prevista.",Commerciale,media
+954,Richiesta listino,La dashboard vendite riporta KPI non allineati ai dati del CRM.,Commerciale,media
+955,Dettagli per bonifico,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+956,Dettagli per bonifico,Richiedo dettagli sulla procedura di bonifico.,Amministrazione,bassa
+957,Configurazione stampante sulla mia postazione,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+958,Problema nella chiusura fiscale mensile,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+959,Dati di fatturazione non aggiornati,Vorrei informazioni su bonifico.,Amministrazione,bassa
+960,Documenti di offerta,Richiedo un'offerta per kpi vendite.,Commerciale,bassa
+961,Impossibile stampare su stampante,Serve il setup di stampante sul PC assegnato,Tecnico,media
+962,Informazioni su iban,Richiedo duplicato fattura per reinvio al fornitore,Amministrazione,bassa
+963,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+964,Tracking spedizione non aggiornato,Il corriere non ha ancora consegnato il attrezzatura come da accordi.,Commerciale,media
+965,Informazioni su preventivo,Richiesta abilitazione per gestire le condizioni economiche delle offerte nel CRM,Commerciale,bassa
+966,PC non si accende,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+967,Impossibile stampare su stampante,La stampante dell'ufficio amministrazione non risponde; dobbiamo stampare documenti contabili per scadenza fiscale,Tecnico,media
+968,Anomalia statistiche di vendita,Vorrei sapere se è disponibile dashboard vendite.,Commerciale,bassa
+969,Richiesta duplicato documento fiscale,Richiedo dettagli sulla procedura di iban.,Amministrazione,bassa
+970,Dati di fatturazione non aggiornati,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+971,La postazione non si avvia,"Il monitor resta nero; nessun beep, nessun logo di avvio.",Tecnico,media
+972,Dati di fatturazione non aggiornati,Avrei bisogno di ottenere una copia di un documento fiscale già emesso,Amministrazione,bassa
+973,Prodotto non consegnato nei tempi previsti,Ritardo nella consegna: il componentistica doveva arrivare la settimana scorsa.,Commerciale,media
+974,Blocco stampa documenti fiscali,La stampante non risponde e non riusciamo a stampare.,Tecnico,media
+975,Mancata consegna prodotto,Tempi di consegna superati per l'ordine prodotto.,Commerciale,media
+976,Blocco stampa documenti fiscali,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+977,Problema timeout,"Non si collega alla timeout, possibile timeout.",Tecnico,media
+978,Errore durante la chiusura contabile,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+979,Documenti di offerta,Richiesta preventivo per il cliente; necessità di ricevere i documenti,Commerciale,bassa
+980,Impossibile stampare su stampante,Driver di stampa non installato; impossibile stampare.,Tecnico,media
+981,Errore applicativo: software gestionale abc,Si verifica software gestionale abc durante l'avvio.,Tecnico,media
+982,Dettagli per bonifico,Nel gestionale sono ancora visibili i dati di fatturazione precedenti. È possibile verificare se l'aggiornamento è stato recepito?,Amministrazione,bassa
+983,Impossibile stampare su stampante,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+984,Richiesta installazione stampante,Serve il setup di stampante sul PC assegnato,Tecnico,media
+985,Richiesta listino,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+986,Problema rete,"Non si collega alla rete, possibile timeout.",Tecnico,media
+987,Errore applicativo: applicativo gestionale,Si verifica applicativo gestionale durante l'avvio.,Tecnico,media
+988,Richiesta installazione stampante,Urgenza oggi: stampare fatture per scadenza fiscale; stampante non operativa,Tecnico,media
+989,Anomalia statistiche di vendita,Serve il listino aggiornato per una proposta commerciale,Commerciale,bassa
+990,Richiesta supporto su scadenza fiscale,Potete controllare se la modifica ai dati di fatturazione è stata applicata nel gestionale?,Amministrazione,bassa
+991,Dettagli per iban,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+992,Il PC non dà segni di vita,Non si avvia il sistema: schermo nero e nessun segnale sul monitor.,Tecnico,alta
+993,Richiesta installazione stampante,Richiedo la configurazione di stampante per le nuove attività,Tecnico,media
+994,Problema proxy,"Non si collega alla proxy, possibile timeout.",Tecnico,media
+995,Problema wifi,"Non si collega alla wifi, possibile timeout.",Tecnico,media
+996,Copia documento contabile,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+997,Richiesta duplicato documento fiscale,Errore critico nella chiusura fiscale: impossibile completare la procedura,Amministrazione,bassa
+998,Il computer non parte all'accensione,La postazione è bloccata: non si avvia e non appare alcuna schermata.,Tecnico,media
+999,Impossibile stampare su stampante,Avrei bisogno dell'installazione di stampante sulla mia postazione,Tecnico,media
+1000,PC non si accende,Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
