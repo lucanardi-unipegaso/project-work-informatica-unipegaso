@@ -103,3 +103,10 @@ Il sistema è addestrato su un dataset sintetico e rappresenta un prototipo
 dimostrativo. Le prestazioni osservate sono valide nel contesto sperimentale
 considerato e non garantiscono una generalizzazione immediata su dati reali
 senza ulteriori test e adattamenti.
+
+### Riproducibilità Comparazione (valutazione e baseline)
+
+Per replicare i risultati di confronto riportati nell’elaborato (baseline DummyClassifier vs modelli scelti),
+è disponibile lo script di valutazione in `scripts/`.
+
+➡️ Istruzioni: vedere [`scripts/README.md`](scripts/README.md)
