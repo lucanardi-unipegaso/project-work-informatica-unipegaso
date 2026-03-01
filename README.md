@@ -46,10 +46,12 @@ triage-ticket-ml/
 │   ├── model_pri.joblib                  # Logistic Regression (priorità)
 │   └── metadata.json                     # Metadati di training e versioning
 ├── predizione.csv                        # Storico ticket analizzati
-├── dataset.csv                           # Dataset sintetico (1000 ticket)
-├── requirements.txt                     # Dipendenze Python
-└── README.md                             # Questo file
-
+├── ticket_sintetici.csv                           # Dataset sintetico (1000 ticket)
+├── requirements.txt                      # Dipendenze Python
+├─  scripts/
+│   ├─ evaluate_baseline.py               # Confronto con baseline statistiche (DummyClassifier) 
+│   └─ README.md                          # Riproducibilità (valutazione e baseline)
+└─ README.md                              # Descrizine del Progetto
 
 ---
 
