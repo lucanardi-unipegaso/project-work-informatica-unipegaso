@@ -149,5 +149,6 @@ Il repository contiene tutti gli script necessari per replicare:
 
 I risultati riportati nell’elaborato sono ottenibili rieseguendo gli script presenti in scripts/.
 
-➡️ Istruzioni: vedere [`scripts/README.md`](scripts/README.md)
+➡️ Istruzioni: vedere scripts/README.md
+``
 
