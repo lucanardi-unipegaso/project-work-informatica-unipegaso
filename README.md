@@ -53,7 +53,7 @@ project-work-informatica-unipegaso/
 └── scripts/
     ├── evaluate_baseline.py     # Confronto modelli vs DummyClassifier
     └── README.md                # Istruzioni e riproducibilità baseline
-
+```
 
 ---
 
@@ -99,7 +99,6 @@ Al primo avvio il sistema:
 3. carica modello e vettorizzatori;
 4. rende disponibile la dashboard completa.
 
-```
 ### Predizione batch (CSV)
 Il file CSV deve contenere almeno:
 
