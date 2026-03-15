@@ -9,49 +9,51 @@ assegnando a ciascuna richiesta:
 - una **categoria** (Tecnico, Amministrazione, Commerciale);
 - una **priorità operativa** (bassa, media, alta).
 
-L’obiettivo del progetto è dimostrare come tecniche di **Machine Learning supervisionato**,
-applicate a testi brevi, possano supportare i processi di gestione dei ticket in modo semplice,
-riproducibile e interpretabile, con particolare attenzione alla valutazione delle prestazioni.
+L’obiettivo è mostrare come tecniche di **Machine Learning supervisionato**, combinate con **regole di dominio**, 
+possano supportare il processo di smistamento iniziale dei ticket in modo semplice, riproducibile e interpretabile.
 
 ---
 
 ## Funzionalità principali
-- Predizione singola dei ticket tramite interfaccia web basata su Streamlit.
-- Predizione batch a partire da file CSV.
-- Dataset sintetico generato automaticamente per l’addestramento dei modelli.
-- Valutazione delle prestazioni tramite **Accuracy**, **F1-score** e **matrici di confusione**.
-- Approccio ibrido: modelli di Machine Learning combinati con regole basate su parole chiave.
-- Dashboard interattiva per l’analisi dei risultati e delle metriche.
+- **Predizione singolo ticket** tramite dashboard Streamlit  
+- **Predizione batch da CSV** (colonne richieste: `title`, `body`)  
+- **Dataset sintetico** generato automaticamente (1000 ticket)  
+- **Approccio ibrido**: ML + Rule Engine (override condizionato per casi critici)  
+- **Explainability**: top 5 parole chiave (TF IDF + keyword di dominio)  
+- **Valutazione prestazioni**: Accuracy, F1 score, confusion matrix  
+- **Persistenza modelli** (joblib + metadati JSON) con controllo di compatibilità
+- **Confronto con baseline** (DummyClassifier) tramite script dedicato  
+
 
 ---
 
 ## Tecnologie utilizzate
-- Python 3
-- Streamlit
-- scikit-learn
-- pandas
-- numpy
+- Python 3.9+  
+- Streamlit  
+- scikit‑learn  
+- pandas, numpy  
 - matplotlib / seaborn
+
 
 ---
 
 ## Struttura del repository
 ```text
-triage-ticket-ml/
-├── triage_dashboard_v99_12am_fix812a.py   # Applicazione Streamlit principale
-├── models/                               # Modelli ML persistenti (auto-generati)
-│   ├── vectorizer_cat.joblib             # TF-IDF per categoria
-│   ├── model_cat.joblib                  # LinearSVC (categoria)
-│   ├── vectorizer_pri.joblib             # TF-IDF per priorità
-│   ├── model_pri.joblib                  # Logistic Regression (priorità)
-│   └── metadata.json                     # Metadati di training e versioning
-├── predizione.csv                        # Storico ticket analizzati
-├── ticket_sintetici.csv                           # Dataset sintetico (1000 ticket)
-├── requirements.txt                      # Dipendenze Python
-├─  scripts/
-│   ├─ evaluate_baseline.py               # Confronto con baseline statistiche (DummyClassifier) 
-│   └─ README.md                          # Riproducibilità (valutazione e baseline)
-└─ README.md                              # Descrizine del Progetto
+project-work-informatica-unipegaso/
+├── app.py                       # Dashboard Streamlit (entrypoint principale)
+├── requirements.txt             # Dipendenze Python
+├── ticket_sintetici.csv         # Dataset sintetico (1000 ticket)
+├── predizione.csv               # Storico predizioni (generato automaticamente)
+├── models/                      # Modelli e vettorizzatori serializzati
+│   ├── model_cat.joblib
+│   ├── vectorizer_cat.joblib
+│   ├── model_pri.joblib
+│   ├── vectorizer_pri.joblib
+│   └── metadata.json
+└── scripts/
+    ├── evaluate_baseline.py     # Confronto modelli vs DummyClassifier
+    └── README.md                # Istruzioni e riproducibilità baseline
+
 
 ---
 
@@ -62,27 +64,54 @@ triage-ticket-ml/
 - Dipendenze: `requirements.txt`
 
 ### Setup
+
 ```bash
+
 # Clone repository
 git clone https://github.com/lucanardi-unipegaso/project-work-informatica-unipegaso.git
-cd triage-ticket-ml
+cd project-work-informatica-unipegaso
+
+# Crea l’ambiente virtuale (venv)
+python -m venv venv
+
+# Attiva il venv
+Windows
+venv\Scripts\activate
+
+macOS / Linux
+source venv/bin/activate
 
 # Installa dipendenze
 pip install -r requirements.txt
 
-# Esegui dashboard
-streamlit run triage_dashboard_v99_12am_fix812a.py
+# Esegui dashboard Streamlit
+streamlit run app.py
+
+# L’app sarà disponibile su:
+http://localhost:8501
 
 ```
 
 ### Primo Avvio
 Al primo avvio il sistema:
-1. Genera un dataset sintetico di circa 1000 ticket.
-2. Addestra i modelli di Machine Learning (LinearSVC e Logistic Regression).
-3. Salva i modelli addestrati nella cartella models/ per utilizzi successivi.
-4. Avvia la dashboard web accessibile all’indirizzo http://localhost:8501
+1. valida i metadati e, se necessario, rigenera i modelli;
+2. genera/ricarica il dataset sintetico;
+3. carica modello e vettorizzatori;
+4. rende disponibile la dashboard completa.
 
 ```
+### Predizione batch (CSV)
+Il file CSV deve contenere almeno:
+
+- title → titolo del ticket
+- body → descrizione testuale
+
+Il sistema rileva automaticamente:
+
+- encoding (UTF‑8, UTF‑8‑SIG, CP1252, Latin‑1…)
+- separatore (virgola, ;, tab)
+
+Al termine viene generato un CSV contenente categoria, priorità
 
 ### Valutazione del modello
 
@@ -96,19 +125,30 @@ Accuracy (accuratezza complessiva),
 F1-score per classe e F1 macro,
 matrici di confusione, utili per analizzare le tipologie di errore.
 
-I risultati mostrano una buona capacità di distinguere le classi,
-in particolare per i ticket con priorità alta, critici dal punto di vista operativo.
+Il confronto con baseline statistiche (DummyClassifier) mostra:
+
+Categoria → LinearSVC nettamente superiore (F1 ≈ 0.99 vs 0.27–0.34)
+Priorità → Logistic Regression balanced supera le baseline (F1 ≈ 0.76 vs 0.21–0.40)
+
+Lo script di valutazione è disponibile in:
+python scripts/evaluate_baseline.py
 
 ### Limiti
 
-Il sistema è addestrato su un dataset sintetico e rappresenta un prototipo
-dimostrativo. Le prestazioni osservate sono valide nel contesto sperimentale
-considerato e non garantiscono una generalizzazione immediata su dati reali
-senza ulteriori test e adattamenti.
+- Il sistema è addestrato su un dataset sintetico: servono test su casi reali.
+- Maggiore incertezza nella distinzione bassa↔media (grey zone).
+- Evoluzioni del lessico o dei processi possono ridurre la performance (richiede manutenzione).
 
 ### Riproducibilità Comparazione (valutazione e baseline)
 
-Per replicare i risultati di confronto riportati nell’elaborato (baseline DummyClassifier vs modelli scelti),
-è disponibile lo script di valutazione in `scripts/`.
+Il repository contiene tutti gli script necessari per replicare:
+
+- addestramento modelli
+- valutazione
+- baseline (DummyClassifier)
+- pipeline Streamlit
+
+I risultati riportati nell’elaborato sono ottenibili rieseguendo gli script presenti in scripts/.
 
 ➡️ Istruzioni: vedere [`scripts/README.md`](scripts/README.md)
+
