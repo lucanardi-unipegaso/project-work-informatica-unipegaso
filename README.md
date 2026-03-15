@@ -65,9 +65,8 @@ project-work-informatica-unipegaso/
 
 ### Setup
 
+#### 1) Clona il repository
 ```bash
-
-# Clone repository
 git clone https://github.com/lucanardi-unipegaso/project-work-informatica-unipegaso.git
 cd project-work-informatica-unipegaso
 
@@ -78,7 +77,7 @@ python -m venv venv
 Windows
 venv\Scripts\activate
 
-macOS / Linux
+# macOS / Linux
 source venv/bin/activate
 
 # Installa dipendenze
@@ -90,7 +89,6 @@ streamlit run app.py
 # L’app sarà disponibile su:
 http://localhost:8501
 
-```
 
 ### Primo Avvio
 Al primo avvio il sistema:
