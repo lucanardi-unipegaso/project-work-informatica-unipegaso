@@ -16,5 +16,12 @@ Vengono utilizzati **due split distinti**:
 ### Requisiti
 Dalla root del repository:
 ```bash
-
 pip install -r requirements.txt
+```
+
+### Esecuzione dello script
+```bash
+python scripts/evaluate_baseline.py
+```
+
+
