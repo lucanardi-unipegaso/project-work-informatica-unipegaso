@@ -72,7 +72,9 @@ cd project-work-informatica-unipegaso
 ```
 
 # Crea l’ambiente virtuale (venv)
+```bash
 python -m venv venv
+```
 
 # Attiva il venv
 
