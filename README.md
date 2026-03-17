@@ -71,28 +71,37 @@ git clone https://github.com/lucanardi-unipegaso/project-work-informatica-unipeg
 cd project-work-informatica-unipegaso
 ```
 
-# Crea l’ambiente virtuale (venv)
+### Crea l’ambiente virtuale (venv)
 ```bash
 python -m venv venv
 ```
 
-# Attiva il venv
+### Attiva il venv
 
-# Windows
+### Windows
+```bash
 venv\Scripts\activate
+```
 
-# macOS / Linux
+### macOS / Linux
+```bash
 source venv/bin/activate
+```
 
-# Installa dipendenze
+### Installa dipendenze
+```bash
 pip install -r requirements.txt
+```
 
-# Esegui dashboard Streamlit
+### Esegui dashboard Streamlit
+```bash
 streamlit run app.py
+```
 
-# L’app sarà disponibile su:
+### L’app sarà disponibile su:
+```bash
 http://localhost:8501
-
+```
 
 ### Primo Avvio
 Al primo avvio il sistema:
