@@ -4,7 +4,7 @@ Questa cartella contiene script utili per replicare le valutazioni riportate nel
 
 ## evaluate_baseline.py — Confronto con baseline (solo ML, senza regole)
 
-Lo script confronta i modelli scelti con due baseline "vere" (`DummyClassifier`):
+Lo script confronta i modelli scelti con due baseline basate su (`DummyClassifier`):
 - `most_frequent` (predice sempre la classe più frequente)
 - `stratified` (predice in modo casuale rispettando la distribuzione delle classi)
 
