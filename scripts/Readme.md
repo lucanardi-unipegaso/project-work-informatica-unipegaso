@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ### Esecuzione dello script
 ```bash
-python scripts/evaluate_baseline.py
+python scripts/evaluate_baseline.py --data ticket_sintetici.csv
 ```
 
 
