@@ -10,6 +10,7 @@ Lo script confronta i modelli scelti con due baseline basate su (`DummyClassifie
 - `stratified` (genera predizioni casuali rispettando la distribuzione delle classi)
 
 Il confronto è eseguito **solo ML** (senza regole) per isolare il contributo del componente di Machine Learning.
+
 Vengono utilizzati **due split distinti**:
 - uno stratificato su **categoria**
 - uno stratificato su **priorità**
