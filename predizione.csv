@@ -1,0 +1,302 @@
+id,date,title,body,category,priority
+1,2025-12-27,PC non parte,"Quando premo avvio non visualizza niente, schermata nera",Tecnico,alta
+2,2025-12-27,Fattura fornitore non visibile nel gestionale,"Buongiorno, la fattura del fornitore Alfa Srl del mese corrente risulta caricata ma non è visibile nel gestionale amministrativo. Ho provato a uscire e rientrare dal sistema ma il problema persiste.",Amministrazione,media
+3,2025-12-27,Impossibile stampare documenti contabili urgenti,La stampante dell’ufficio amministrazione non risponde e dobbiamo stampare con urgenza dei documenti per una scadenza fiscale di oggi. Al momento nessuno riesce a stampare.,Amministrazione,alta
+4,2025-12-27,Impossibile stampare documenti contabili urgenti,La stampante dell’ufficio amministrazione non risponde e dobbiamo stampare con urgenza dei documenti per una scadenza fiscale di oggi. Al momento nessuno riesce a stampare.,Tecnico,alta
+5,2025-12-27,Richiesta accesso cartella bilanci,Avrei bisogno dell’accesso in lettura alla cartella di rete “Bilanci_2024” per verificare alcuni dati richiesti dal revisore. Attualmente ricevo un messaggio di accesso negato.,Tecnico,media
+6,2025-12-27,CRM non si apre dopo aggiornamento,Da questa mattina il CRM aziendale non si avvia sul mio PC. Dopo il doppio clic compare una schermata bianca e poi il programma si chiude. Ho una call con un cliente tra un’ora.,Commerciale,alta
+7,2025-12-27,Email cliente rimbalzate,"Sto cercando di inviare offerte a un cliente ma le email tornano indietro con errore di mancata consegna. Succede solo con questo contatto, gli altri funzionano.",Commerciale,bassa
+8,2025-12-27,Richiesta configurazione firma email,Avrei bisogno di aggiornare la firma email con il nuovo ruolo e il numero di telefono. Potete indicarmi come fare o applicarla centralmente?,Tecnico,media
+9,2025-12-27,PC non si avvia dopo spegnimento improvviso,Ieri il computer si è spento improvvisamente durante il lavoro e ora non si avvia più. All’accensione sento la ventola ma lo schermo rimane nero.,Tecnico,alta
+10,2025-12-27,Connessione di rete instabile in laboratorio,Nel laboratorio tecnico la connessione di rete cade frequentemente durante il giorno. Questo sta rallentando i test sui sistemi e le connessioni SSH si interrompono.,Tecnico,alta
+11,2025-12-27,Installazione software di monitoraggio,Avrei bisogno dell’installazione del software di monitoraggio XYZ sul mio PC per una nuova attività di controllo. Non ho i permessi di installazione.,Tecnico,alta
+12,2025-12-27,Installazione software di monitoraggio,Avrei bisogno dell’installazione del software di monitoraggio XYZ sul mio PC per una nuova attività di controllo. Non ho i permessi di installazione.,Tecnico,bassa
+13,2025-12-27,Server di test non raggiungibile,Il server di test interno non risponde al ping e non è accessibile via browser o SSH. Il problema è iniziato circa 30 minuti fa e blocca le attività del team.,Tecnico,alta
+14,2025-12-27,Blocco attività amministrative per stampa documenti fiscali,A causa di un problema stiamo riscontrando l’impossibilità di stampare documenti fiscali e contabili necessari per le chiusure amministrative di oggi. La situazione sta impedendo il rispetto delle scadenze previste.,Tecnico,media
+15,2025-12-27,Problemi con la stampa in ufficio,In ufficio non è possibile stampare alcuni documenti. Il problema si presenta da questa mattina e coinvolge più persone. Si chiede supporto per la risoluzione.,Tecnico,media
+16,2025-12-27,Stampante non raggiungibile in rete,La stampante di rete dell’ufficio amministrativo risulta non raggiungibile e i job di stampa rimangono in coda. Il problema è presente su più postazioni.,Tecnico,media
+17,2025-12-27,Blocco attività amministrative per stampa documenti fiscali,A causa di un problema stiamo riscontrando l’impossibilità di stampare documenti fiscali e contabili necessari per le chiusure amministrative di oggi. La situazione sta impedendo il rispetto delle scadenze previste.,Tecnico,alta
+18,2025-12-27,Accesso negato al gestionale contabile,"Quando provo ad accedere al gestionale contabile compare un messaggio di credenziali non valide, nonostante la password sia corretta. Il problema è iniziato questa mattina e non riesco a lavorare sulle registrazioni.",Tecnico,media
+19,2025-12-27,Dati di fatturazione non aggiornati,Nel gestionale risultano ancora visibili i dati di fatturazione precedenti alla modifica inviata la settimana scorsa. È possibile verificare se l’aggiornamento è stato recepito?,Tecnico,media
+20,2025-12-27,Dati di fatturazione non aggiornati,Nel gestionale risultano ancora visibili i dati di fatturazione precedenti alla modifica inviata la settimana scorsa. È possibile verificare se l’aggiornamento è stato recepito?,Amministrazione,bassa
+21,2025-12-27,Richiesta chiarimenti su procedura rimborso,Avrei bisogno di alcune informazioni sulla procedura corretta per inserire una richiesta di rimborso spese di missione. Non trovo la documentazione aggiornata.,Amministrazione,bassa
+22,2025-12-27,Impossibile caricare offerte sul portale clienti,Durante il caricamento di nuove offerte sul portale clienti il sistema restituisce un errore generico e l’operazione non viene completata. Ho diversi clienti in attesa.,Tecnico,media
+23,2025-12-27,Contatto cliente duplicato nel CRM,Nel CRM risultano due schede diverse per lo stesso cliente con informazioni parziali. Potete indicarmi come unificarle correttamente?,Amministrazione,bassa
+24,2025-12-27,Richiesta esportazione elenco clienti,Avrei bisogno di esportare l’elenco clienti in formato Excel per un’analisi interna. Non trovo l’opzione di esportazione nel sistema.,Amministrazione,bassa
+25,2025-12-27,PC molto lento dopo aggiornamento di sistema,Dopo l’ultimo aggiornamento di Windows il computer è diventato molto lento all’avvio e durante l’utilizzo dei programmi principali. Il problema si presenta ogni giorno.,Tecnico,media
+26,2025-12-27,Mancato accesso alla rete cablata,"La postazione in ufficio non riesce a collegarsi alla rete via cavo. Il Wi-Fi funziona, ma la connessione cablata risulta assente da stamattina.",Tecnico,media
+27,2025-12-27,Stampante di rete non visibile,La stampante di rete non compare più tra i dispositivi disponibili e non è possibile aggiungerla manualmente. Il problema riguarda solo la mia postazione.,Tecnico,media
+28,2025-12-27,Blocco applicazione critica in produzione,L’applicazione utilizzata per il monitoraggio dei sistemi in produzione si chiude improvvisamente all’avvio. Il problema sta impedendo il controllo dei servizi attivi.,Tecnico,media
+29,2025-12-27,richiesta preventivo,Potete indicarmi dove devo prelevare le richieste di preventivo?,Commerciale,bassa
+30,2025-12-27,BSOD errore,Questa mattina il mio PC visualizza schermate BSOD,Tecnico,alta
+31,2025-12-28,Problemi con documenti di offerta,Non riesco ad aprire alcuni documenti di offerta salvati sul server condiviso. Mi servono per un cliente entro oggi.,Commerciale,alta
+32,2025-12-28,Accesso non disponibile al gestionale,Il gestionale aziendale non è accessibile da nessuna postazione dell’ufficio da questa mattina,Amministrazione,bassa
+33,2025-12-28,Problema locale vs problema globale,"La stampante non stampa dalla mia postazione, mentre ai colleghi sembra funzionare regolarmente.",Tecnico,media
+34,2025-12-28,Informazioni su accesso CRM,Avrei bisogno di sapere quali credenziali sono necessarie per accedere al CRM e se è prevista l’abilitazione per il mio ruolo.,Commerciale,bassa
+35,2025-12-28,Sistema inutilizzabile e situazione critica,"È inaccettabile che il sistema sia così lento, non si riesce a lavorare in modo decente da giorni.",Tecnico,media
+36,2025-12-28,Errore inserimento fattura,"Durante l’inserimento di una fattura ricevo un messaggio di errore, ma il sistema sembra funzionare correttamente per il resto. Forse sto sbagliando procedura.",Tecnico,media
+37,2025-12-28,Problema urgente,Avrei bisogno di aggiornare la firma email con il nuovo numero di telefono quando possibile.,Tecnico,alta
+38,2025-12-28,PC piantato,Il computer rimane bloccato sulla schermata iniziale e non permette di andare avanti.,Tecnico,alta
+39,2025-12-28,Impossibile inviare preventivi,Non riesco a inviare i preventivi perché Outlook non si avvia sul mio PC.,Tecnico,media
+40,2025-12-28,Certificato scaduto su servizio interno,Il servizio interno HTTPS restituisce un errore di certificato scaduto e non è più accessibile da browser.,Tecnico,media
+41,2025-12-28,Problemi con documenti di offerta,Non riesco ad aprire alcuni documenti di offerta salvati sul server condiviso. Mi servono per un cliente entro oggi.,Tecnico,alta
+42,2025-12-28,Accesso non disponibile al gestionale,Il gestionale aziendale non è accessibile da nessuna postazione dell’ufficio da questa mattina.,Tecnico,bassa
+43,2025-12-28,Accesso non disponibile al gestionale,Il gestionale aziendale non è accessibile da nessuna postazione dell’ufficio da questa mattina.,Tecnico,alta
+44,2025-12-28,Problema,Avrei bisogno di aggiornare la firma email con il nuovo numero di telefono quando possibile,Tecnico,media
+45,2025-12-28,Errore inserimento fattura,"Durante l’inserimento di una fattura ricevo un messaggio di errore, ma il sistema sembra funzionare correttamente per il resto. Forse sto sbagliando procedura.",Tecnico,media
+46,2025-12-28,Accesso bloccato al gestionale,Non riesco ad accedere al gestionale amministrativo perché il sistema segnala un errore di autenticazione. Il problema impedisce di lavorare sulle registrazioni giornaliere,Tecnico,alta
+47,2025-12-28,Aggiornamento dati fornitore,È necessario aggiornare l’indirizzo e i dati bancari di un fornitore nel sistema amministrativo. Potete indicarmi come procedere?,Amministrazione,bassa
+48,2025-12-28,Errore durante il caricamento offerte,Il sistema commerciale restituisce un errore durante il caricamento delle offerte per i clienti. L’operazione non viene completata correttamente.,Tecnico,media
+49,2025-12-28,Richiesta nuovo accesso CRM,Avrei bisogno dell’abilitazione al CRM aziendale per gestire i clienti assegnati al mio reparto. Attualmente non riesco ad accedere.,Commerciale,bassa
+50,2025-12-28,PC non si accende,Il computer della mia postazione non si accende più. Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+51,2025-12-28,Connessione internet lenta,La connessione internet sulla mia postazione è molto lenta e rende difficoltoso l’utilizzo delle applicazioni aziendali.,Tecnico,media
+52,2025-12-28,Installazione stampante ufficio,Avrei bisogno di installare una nuova stampante sulla mia postazione di lavoro. Al momento non è configurata nel sistema.,Tecnico,alta
+53,2025-12-28,Modifica dati cliente,È necessario aggiornare il numero di telefono e l’indirizzo email di un cliente già presente nel CRM.,Amministrazione,bassa
+54,2025-12-28,Errore di salvataggio fattura,Durante il salvataggio di una fattura il sistema amministrativo restituisce un errore e non permette di completare l’operazione.,Tecnico,media
+55,2025-12-28,Applicazione aziendale non si avvia,L’applicazione aziendale utilizzata quotidianamente non si avvia più su nessuna postazione del reparto.,Tecnico,media
+56,2025-12-28,Applicazione aziendale non si avvia,L’applicazione aziendale utilizzata quotidianamente non si avvia più su nessuna postazione del reparto.,Tecnico,media
+57,2025-12-28,Applicazione aziendale non si avvia,L’applicazione aziendale utilizzata quotidianamente non si avvia più su nessuna postazione del reparto,Tecnico,media
+58,2025-12-29,Applicazione aziendale non si avvia,L’applicazione aziendale utilizzata quotidianamente non si avvia più su nessuna postazione del reparto,Tecnico,alta
+59,2025-12-29,PC non si accende,Il computer della mia postazione non si accende più. Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,media
+60,2025-12-29,PC non si accende,Il computer della mia postazione non si accende più. Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+61,2025-12-29,PC non si accende,Il computer della mia postazione non si accende più. Premendo il pulsante di accensione non compare alcuna schermata.,Tecnico,alta
+62,2025-12-29,Errore durante il caricamento offerte,Il sistema commerciale restituisce un errore durante il caricamento delle offerte per i clienti. L’operazione non viene completata correttamente.,Tecnico,media
+63,2025-12-30,Accesso bloccato al gestionale amministrativo,Non riesco ad accedere al gestionale amministrativo perché il sistema segnala un errore di autenticazione. Il problema impedisce di lavorare sulle registrazioni giornaliere.,Tecnico,alta
+64,2025-12-30,Errore di salvataggio fattura,Durante il salvataggio di una fattura il sistema amministrativo restituisce un errore e non permette di completare l’operazione,Tecnico,media
+65,2025-12-30,Applicazione aziendale non si avvia,L’applicazione aziendale utilizzata quotidianamente non si avvia più su nessuna postazione del reparto.,Tecnico,alta
+66,2025-12-30,Mancata visualizzazione report mensile,Nel sistema amministrativo non riesco a visualizzare il report mensile di competenza. La pagina rimane in caricamento e non mostra i dati.,Amministrazione,bassa
+67,2025-12-30,Richiesta chiarimenti su scadenze fatture,Avrei bisogno di sapere dove posso consultare le scadenze aggiornate delle fatture in sospeso e se esiste un report riepilogativo.,Amministrazione,bassa
+68,2025-12-30,Preventivo non salvato correttamente,"Dopo aver inserito un nuovo preventivo nel sistema commerciale, il salvataggio non va a buon fine e il dato viene perso.",Commerciale,bassa
+69,2025-12-30,Accesso lento al portale clienti,"Il portale clienti risulta molto lento durante l’accesso e il caricamento delle pagine, specialmente nelle prime ore della mattina.",Tecnico,media
+70,2025-12-30,Richiesta attivazione nuova postazione,"È necessario configurare una nuova postazione di lavoro con PC, accesso alla rete e account aziendale per un nuovo collega.",Tecnico,media
+71,2025-12-30,Schermo nero all’avvio del PC,"All’accensione del computer lo schermo rimane nero e non compare il desktop, anche dopo diversi riavvii.",Tecnico,alta
+72,2025-12-30,Aggiornamento non riuscito su applicazione interna,Durante l’aggiornamento dell’applicazione interna compare un errore e il processo si interrompe senza completarsi.,Tecnico,media
+73,2025-12-30,Duplicazione anagrafica cliente,Nel CRM risultano due anagrafiche per lo stesso cliente con dati diversi. È possibile sistemare la situazione?,Amministrazione,bassa
+74,2025-12-30,Impossibile modificare dati pagamento,Non riesco a modificare le modalità di pagamento di una fattura già inserita nel sistema amministrativo.,Amministrazione,bassa
+75,2025-12-30,Stampante non disponibile da più postazioni,La stampante di reparto non è disponibile e non compare tra i dispositivi di stampa su più computer.,Tecnico,alta
+76,2025-12-30,Duplicazione anagrafica cliente,Nel CRM risultano due anagrafiche per lo stesso cliente con dati diversi. È possibile sistemare la situazione?,Amministrazione,bassa
+77,2025-12-30,Duplicazione anagrafica cliente,Nel CRM risultano due anagrafiche per lo stesso cliente con dati diversi. È possibile sistemare la situazione?,Commerciale,bassa
+78,2025-12-30,Impossibile modificare dati pagamento,Non riesco a modificare le modalità di pagamento di una fattura già inserita nel sistema amministrativo.,Amministrazione,bassa
+79,2025-12-30,Mancata visualizzazione report mensile,Nel sistema amministrativo non riesco a visualizzare il report mensile di competenza. La pagina rimane in caricamento e non mostra i dati.,Amministrazione,bassa
+80,2025-12-30,Stampante non disponibile da più postazioni,La stampante di reparto non è disponibile e non compare tra i dispositivi di stampa su più computer.,Tecnico,alta
+81,2025-12-30,Impossibile modificare dati pagamento,Non riesco a modificare le modalità di pagamento di una fattura già inserita nel sistema amministrativo,Amministrazione,bassa
+82,2025-12-31,Impossibile esportare movimenti contabili,Nel gestionale amministrativo l’esportazione dei movimenti contabili in formato Excel non va a buon fine e il file non viene generato.,Amministrazione,bassa
+83,2025-12-31,Visualizzazione errata importi fattura,"Aprendo una fattura inserita ieri, gli importi risultano diversi da quelli inseriti in fase di registrazione.
+",Amministrazione,bassa
+84,2025-12-31,Offerte cliente non visibili nel CRM,Accedendo alla scheda di un cliente nel CRM non sono visibili le offerte inserite nei giorni scorsi.,Commerciale,bassa
+85,2025-12-31,Richiesta permessi aggiuntivi su portale vendite,Avrei bisogno di permessi aggiuntivi sul portale vendite per poter modificare le condizioni economiche delle offerte.,Tecnico,bassa
+86,2025-12-31,Riavvii frequenti del computer,"Il computer si riavvia improvvisamente più volte al giorno senza alcun messaggio di errore, interrompendo il lavoro.",Tecnico,alta
+87,2025-12-31,VPN non si connette da remoto,Da casa non riesco a collegarmi alla VPN aziendale. L’autenticazione sembra andare a buon fine ma la connessione cade subito dopo.,Tecnico,media
+88,2025-12-31,Aggiornamento antivirus richiesto,Il sistema segnala che l’antivirus non è aggiornato e richiede un intervento per completare l’aggiornamento,Tecnico,bassa
+89,2025-12-31,Cliente non riceve email automatiche,"Un cliente segnala di non ricevere le email automatiche di conferma ordine, mentre per altri clienti il servizio funziona.",Commerciale,bassa
+90,2025-12-31,Richiesta duplicato documento fiscale,Avrei bisogno di ottenere una copia di un documento fiscale già emesso per poterlo reinviare a un fornitore,Tecnico,bassa
+91,2025-12-31,Cartella di rete non accessibile,La cartella di rete condivisa del reparto non è più accessibile e viene mostrato un messaggio di errore di percorso non trovato.,Tecnico,alta
+92,2025-12-31,Richiesta duplicato documento fiscale,Avrei bisogno di ottenere una copia di un documento fiscale già emesso per poterlo reinviare a un fornitore,Amministrazione,bassa
+93,2025-12-31,Richiesta permessi aggiuntivi su portale vendite,Avrei bisogno di permessi aggiuntivi sul portale vendite per poter modificare le condizioni economiche delle offerte.,Amministrazione,bassa
+94,2025-12-31,Richiesta permessi aggiuntivi su portale vendite,Avrei bisogno di permessi aggiuntivi sul portale vendite per poter modificare le condizioni economiche delle offerte.,Commerciale,bassa
+95,2026-01-01,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l’operazione.,Tecnico,media
+96,2026-01-01,Mancato aggiornamento stato pagamento,Lo stato di pagamento di alcune fatture risulta ancora “in sospeso” nonostante il pagamento sia stato registrato giorni fa.,Amministrazione,bassa
+97,2026-01-01,Accesso negato a funzionalità CRM,"Accedendo al CRM non riesco a utilizzare alcune funzionalità che prima erano disponibili, come la modifica delle offerte.",Commerciale,bassa
+98,2026-01-01,Report vendite non disponibile,Il report vendite settimanale non è disponibile sul portale e non riesco a scaricarlo per l’analisi con il responsabile.,Commerciale,bassa
+99,2026-01-01,Blocco totale rete Wi-Fi,La rete Wi-Fi aziendale non è accessibile da nessuna postazione del piano da questa mattina,Tecnico,alta
+100,2026-01-01,Audio non funzionante durante videoconferenze,Durante le videoconferenze l’audio non funziona correttamente e gli interlocutori non sentono la mia voce,Tecnico,alta
+101,2026-01-01,Richiesta installazione software gestionale,Avrei bisogno dell’installazione del software gestionale ABC sulla mia postazione per nuove attività assegnate.,Amministrazione,bassa
+102,2026-01-01,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+103,2026-01-01,Modifica centro di costo,È necessario aggiornare il centro di costo associato ad alcune registrazioni contabili già inserite,Amministrazione,bassa
+104,2026-01-01,Server interno lento,Il server interno risulta molto lento nel rispondere alle richieste e l’accesso alle applicazioni è rallentato per tutti gli utenti.,Tecnico,media
+105,2026-01-01,Impossibile esportare movimenti contabili,Nel gestionale amministrativo l’esportazione dei movimenti contabili in formato Excel non va a buon fine e il file non viene generato,Amministrazione,bassa
+106,2026-01-01,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l’operazione.,Tecnico,media
+107,2026-01-01,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l’operazione,Tecnico,media
+108,2026-01-01,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l’operazione,Tecnico,media
+109,2026-01-01,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l’operazione.,Tecnico,media
+110,2026-01-01,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l’operazione.,Amministrazione,media
+111,2026-01-01,Errore durante la chiusura contabile,Durante la procedura di chiusura contabile mensile il sistema restituisce un errore e non permette di completare l’operazione,Amministrazione,alta
+112,2026-01-01,Richiesta installazione software gestionale,Avrei bisogno dell’installazione del software gestionale ABC sulla mia postazione per nuove attività assegnate.,Amministrazione,bassa
+113,2026-01-01,Richiesta installazione software gestionale,Avrei bisogno dell’installazione del software gestionale ABC sulla mia postazione per nuove attività assegnate.,Tecnico,bassa
+114,2026-01-01,Errore generazione nota di credito,Durante la creazione di una nota di credito il sistema amministrativo restituisce un errore e non consente di completare l’operazione.,Tecnico,bassa
+115,2026-01-01,Errore generazione nota di credito,Durante la creazione di una nota di credito il sistema amministrativo restituisce un errore e non consente di completare l’operazione.,Amministrazione,bassa
+116,2026-01-01,Errore generazione nota di credito,Durante la creazione di una nota di credito il sistema amministrativo restituisce un errore e non consente di completare l’operazione,Amministrazione,media
+117,2026-01-01,Mancata riconciliazione movimenti bancari,Alcuni movimenti bancari importati non vengono riconciliati automaticamente con le registrazioni presenti nel gestionale.,Amministrazione,bassa
+118,2026-01-01,Offerta cliente non modificabile,Nel CRM non riesco a modificare un’offerta già inserita perché i campi risultano bloccati.,Commerciale,bassa
+119,2026-01-01,Anomalia statistiche di vendita,Le statistiche di vendita visualizzate nel portale non sembrano aggiornate e mostrano valori non coerenti con i dati reali.,Amministrazione,media
+120,2026-01-01,Blocco accesso account utente,Non riesco ad accedere al mio account aziendale perché risulta bloccato dopo diversi tentativi di accesso,Tecnico,alta
+121,2026-01-01,Mouse e tastiera non funzionanti,Il mouse e la tastiera collegati alla mia postazione non rispondono correttamente e rendono difficile l’utilizzo del computer.,Tecnico,alta
+122,2026-01-01,Richiesta configurazione accesso remoto,Avrei bisogno di configurare l’accesso remoto al PC dell’ufficio per poter lavorare da casa,Tecnico,bassa
+123,2026-01-01,Cliente segnala errore nel portale,Un cliente segnala un errore durante l’accesso al portale commerciale e non riesce a visualizzare i propri ordini.,Tecnico,bassa
+124,2026-01-01,Richiesta verifica fattura già emessa,È richiesta una verifica su una fattura già emessa perché il cliente segnala un importo non corretto,Amministrazione,bassa
+125,2026-01-01,Servizio di stampa intermittente,"Il servizio di stampa funziona in modo intermittente: a volte le stampe partono, altre rimangono in coda senza completarsi.",Tecnico,media
+126,2026-01-02,Errore generazione nota di credito,Durante la creazione di una nota di credito il sistema amministrativo restituisce un errore e non consente di completare l’operazione,Amministrazione,media
+127,2026-01-02,Anomalia statistiche di vendita,Le statistiche di vendita visualizzate nel portale non sembrano aggiornate e mostrano valori non coerenti con i dati reali.,Amministrazione,media
+128,2026-01-02,Anomalia statistiche di vendita,Le statistiche di vendita visualizzate nel portale non sembrano aggiornate e mostrano valori non coerenti con i dati reali.,Commerciale,media
+129,2026-01-02,Mouse e tastiera non funzionanti,Il mouse e la tastiera collegati alla mia postazione non rispondono correttamente e rendono difficile l’utilizzo del computer.,Tecnico,alta
+130,2026-01-02,Cliente segnala errore nel portale,Un cliente segnala un errore durante l’accesso al portale commerciale e non riesce a visualizzare i propri ordini.,Commerciale,bassa
+131,2026-01-02,Cliente segnala errore nel portale,Un cliente segnala un errore durante l’accesso al portale commerciale e non riesce a visualizzare i propri ordini.,Commerciale,bassa
+132,2026-01-02,Cliente segnala errore nel portale,Un cliente segnala un errore durante l’accesso al portale commerciale e non riesce a visualizzare i propri ordini.,Commerciale,bassa
+133,2026-01-02,Cliente segnala errore nel portale,Un cliente segnala un errore durante l’accesso al portale commerciale e non riesce a visualizzare i propri ordini.,Commerciale,bassa
+134,2026-01-02,Cliente segnala errore nel portale,Un cliente segnala un errore durante l’accesso al portale commerciale e non riesce a visualizzare i propri ordini.,Commerciale,bassa
+135,2026-01-02,Cliente segnala errore nel portale,Un cliente segnala un errore durante l’accesso al portale commerciale e non riesce a visualizzare i propri ordini.,Commerciale,bassa
+136,2026-01-02,Anomalia statistiche di vendita,Statistiche del portale non aggiornate; valori incoerenti,Commerciale,media
+137,2026-01-02,Richiesta listino aggiornato,Serve listino per proposta commerciale,Commerciale,bassa
+138,2026-01-02, PC non si accende,"Schermo nero all’avvio, nessuna schermata",Tecnico,alta
+139,2026-01-02,Richiesta installazione software gestionale,Installazione software ABC sulla mia postazione,Tecnico,bassa
+140,2026-01-02,stampa bloccata con scadenze,Impossibile stampare documenti contabili,Amministrazione,alta
+141,2026-01-02,Impossibile stampare documenti contabili,Stampante non risponde; scadenza oggi.,Amministrazione,alta
+142,2026-01-02,Impossibile stampare documenti contabili,Stampante non risponde; scadenza oggi.,Tecnico,alta
+143,2026-01-02,Impossibile registrare una nuova fattura,Durante l’inserimento di una nuova fattura il sistema amministrativo si blocca e non consente di salvare i dati inseriti.,Amministrazione,bassa
+144,2026-01-02,Disallineamento saldo clienti,Nel gestionale amministrativo il saldo di alcuni clienti non risulta allineato con i pagamenti effettuati.,Amministrazione,bassa
+145,2026-01-02,Errore caricamento listino prezzi,Il caricamento del nuovo listino prezzi nel sistema commerciale restituisce un errore e non viene completato,Commerciale,bassa
+146,2026-01-02,Accesso limitato a funzionalità di vendita,Accedendo al portale commerciale alcune funzionalità di vendita risultano disabilitate rispetto a quelle previste per il mio ruolo,Commerciale,bassa
+147,2026-01-02,Computer molto lento all’avvio,Il computer impiega diversi minuti per avviarsi e risulta molto lento durante le prime fasi di utilizzo,Tecnico,media
+148,2026-01-02,Connessione Wi-Fi instabile,"La connessione Wi-Fi si disconnette frequentemente durante la giornata, rendendo difficile lavorare in modo continuativo",Tecnico,media
+149,2026-01-02,Richiesta sostituzione monitor,Il monitor della mia postazione presenta righe sullo schermo e avrei bisogno di una verifica o sostituzione,Tecnico,alta
+150,2026-01-02,Ordine cliente non visibile,Un ordine inserito ieri nel sistema commerciale non risulta visibile nella scheda del cliente,Commerciale,bassa
+151,2026-01-02,Chiarimenti su storno fattura,Avrei bisogno di chiarimenti sulla procedura corretta per effettuare lo storno di una fattura già emessa,Amministrazione,bassa
+152,2026-01-02,Blocco applicazione interna su più postazioni,L’applicazione interna utilizzata dal reparto non si avvia correttamente su più postazioni di lavoro,Tecnico,media
+153,2026-01-02,Blocco applicazione interna su più postazioni,L’applicazione interna utilizzata dal reparto non si avvia correttamente su più postazioni di lavoro,Tecnico,alta
+154,2026-01-02,Blocco applicazione interna su più postazioni,L’applicazione interna utilizzata dal reparto non si avvia correttamente su più postazioni di lavoro.,Tecnico,alta
+155,2026-01-02,Ordine cliente non visibile,Un ordine inserito ieri nel sistema commerciale non risulta visibile nella scheda del cliente,Commerciale,bassa
+156,2026-01-02,Errore inserimento nota spese,Durante l’inserimento di una nota spese il sistema non permette di salvare i dati e mostra un messaggio di errore generico,Tecnico,bassa
+157,2026-01-02,Mancata visualizzazione scadenze fiscali,Nel portale amministrativo non riesco a visualizzare l’elenco aggiornato delle scadenze fiscali previste per questo mese,Commerciale,bassa
+158,2026-01-02,Mancata visualizzazione scadenze fiscali,Nel portale amministrativo non riesco a visualizzare l’elenco aggiornato delle scadenze fiscali previste per questo mese,Amministrazione,bassa
+159,2026-01-02,Errore aggiornamento anagrafica cliente,"Provando ad aggiornare i dati di un cliente nel CRM, il sistema non salva le modifiche apportate",Commerciale,bassa
+160,2026-01-02,Impossibile creare nuovo preventivo,Nel sistema commerciale non riesco a creare un nuovo preventivo perché la procedura si blocca a metà,Commerciale,bassa
+161,2026-01-02,Impossibile creare nuovo preventivo,Nel sistema commerciale non riesco a creare un nuovo preventivo perché la procedura si blocca a metà,Commerciale,bassa
+162,2026-01-02,Impossibile creare nuovo preventivo,Nel sistema commerciale non riesco a creare un nuovo preventivo perché la procedura si blocca a metà,Commerciale,bassa
+163,2026-01-02,Impossibile creare nuovo preventivo,Nel sistema commerciale non riesco a creare un nuovo preventivo perché la procedura si blocca a metà.,Commerciale,bassa
+164,2026-01-02,Impossibile creare nuovo preventivo,Nel sistema commerciale non riesco a creare un nuovo preventivo perché la procedura si blocca a metà,Commerciale,bassa
+165,2026-01-02,Impossibile creare nuovo preventivo,Nel sistema commerciale non riesco a creare un nuovo preventivo perché la procedura si blocca a metà,Commerciale,alta
+166,2026-01-02,Accesso CRM molto lento,L’accesso al CRM risulta molto lento e il caricamento delle schede cliente richiede diversi minuti,Commerciale,media
+167,2026-01-02,PC si spegne improvvisamente,"Il computer si spegne senza preavviso durante l’utilizzo, causando la perdita del lavoro non salvato",Tecnico,alta
+168,2026-01-02,Problemi con cuffie audio,Le cuffie collegate al PC non funzionano correttamente e l’audio risulta intermittente durante le chiamate,Tecnico,alta
+169,2026-01-02,Problemi con cuffie audio,Le cuffie collegate al PC non funzionano correttamente e l’audio risulta intermittente durante le chiamate,Tecnico,alta
+170,2026-01-02,Problemi con cuffie audio,Le cuffie collegate al PC non funzionano correttamente e l’audio risulta intermittente durante le chiamate,Tecnico,media
+171,2026-01-02,Stampante stampa caratteri errati,I documenti stampati presentano caratteri errati e simboli al posto del testo corretto,Tecnico,media
+172,2026-01-02,Verifica correttezza fattura cliente,Un cliente ha richiesto una verifica sulla correttezza degli importi riportati in una fattura ricevuta,Amministrazione,bassa
+173,2026-01-02,Ordini non sincronizzati nel portale,Gli ordini inseriti nel sistema commerciale non risultano sincronizzati con il portale clienti,Commerciale,bassa
+174,2026-01-03,Errore caricamento documenti contabili,Nel sistema amministrativo non riesco a caricare alcuni documenti contabili perché la procedura si interrompe con un errore.,Amministrazione,media
+175,2026-01-03,Richiesta copia fattura,"Avrei bisogno di ricevere una copia di una fattura emessa il mese scorso, non più disponibile nel portale",Amministrazione,bassa
+176,2026-01-03,Offerta cliente salvata in modo incompleto,Un’offerta inserita nel sistema commerciale risulta salvata solo parzialmente e mancano alcuni dati,Commerciale,bassa
+177,2026-01-03,Problemi accesso area vendite,Accedendo all’area vendite del portale alcune sezioni non si aprono correttamente,Commerciale,media
+178,2026-01-03,Richiesta creazione account utente,È necessario creare un nuovo account utente per un collega che inizierà a lavorare nei prossimi giorni,Tecnico,media
+179,2026-01-03,Schermata blu durante l’utilizzo del PC,Durante il lavoro il computer mostra una schermata blu e si riavvia automaticamente.,Tecnico,alta
+180,2026-01-03,Problemi connessione stampante USB,La stampante collegata via USB non viene riconosciuta correttamente dal computer,Tecnico,media
+181,2026-01-03,Cliente non visualizza storico ordini,Un cliente segnala che nel portale commerciale non riesce a visualizzare lo storico dei propri ordini,Commerciale,bassa
+182,2026-01-03,Chiarimenti su modalità di pagamento,Avrei bisogno di informazioni sulle modalità di pagamento disponibili per i fornitori nel sistema amministrativo.,Amministrazione,bassa
+183,2026-01-03,Applicazione interna si chiude improvvisamente,L’applicazione interna utilizzata quotidianamente si chiude senza messaggi di errore durante l’uso,Tecnico,media
+184,2026-01-03,Impossibile creare nuovo preventivo,Nel sistema commerciale non riesco a creare un nuovo preventivo perché la procedura si blocca a metà,Commerciale,alta
+185,2026-01-03,Connessione Wi-Fi instabile,"La connessione Wi-Fi si disconnette frequentemente durante la giornata, rendendo difficile lavorare in modo continuativo",Tecnico,media
+186,2026-01-03,Anomalia statistiche di vendita,Le statistiche di vendita visualizzate nel portale non sembrano aggiornate e mostrano valori non coerenti con i dati reali,Commerciale,media
+187,2026-01-03,Errore generazione nota di credito,Durante la creazione di una nota di credito il sistema amministrativo restituisce un errore e non consente di completare l’operazione,Amministrazione,media
+188,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+189,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+190,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+191,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Commerciale,bassa
+192,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+193,2026-01-03,Blocco applicazione interna su più postazioni,L’applicazione interna utilizzata dal reparto non si avvia correttamente su più postazioni di lavoro,Tecnico,alta
+194,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+195,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+196,2026-01-03,Modifica centro di costo,È necessario aggiornare il centro di costo associato ad alcune registrazioni contabili già inserite,Amministrazione,bassa
+197,2026-01-03,Audio non funzionante durante videoconferenze,Durante le videoconferenze l’audio non funziona correttamente e gli interlocutori non sentono la mia voce.,Tecnico,media
+198,2026-01-03,Report vendite non disponibile,Il report vendite settimanale non è disponibile sul portale e non riesco a scaricarlo per l’analisi con il responsabile.,Commerciale,media
+199,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+200,2026-01-03,Blocco applicazione interna su più postazioni,L’applicazione interna utilizzata dal reparto non si avvia correttamente su più postazioni di lavoro,Tecnico,alta
+201,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+202,2026-01-03,lo smartphone non visualizza,Da questa mattina il mio smartphone non visualizza più e ha lo schermo nero,Tecnico,alta
+203,2026-01-03,lo smartphone non visualizza,Da questa mattina il mio smartphone non visualizza più e ha lo schermo nero,Tecnico,alta
+204,2026-01-03,Errore invio conferme d’ordine,Il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l’inserimento,Tecnico,bassa
+205,2026-01-03,Schermata blu durante l’utilizzo del PC,Durante il lavoro il computer mostra una schermata blu e si riavvia automaticamente.,Tecnico,alta
+206,2026-01-03,Schermata blu durante l’utilizzo del PC,Durante il lavoro il computer mostra una schermata blu e si riavvia automaticamente.,Tecnico,alta
+207,2026-01-03,Problemi accesso area vendite,Accedendo all’area vendite del portale alcune sezioni non si aprono correttamente.,Commerciale,media
+208,2026-01-03,Ordini non sincronizzati nel portale,Gli ordini inseriti nel sistema commerciale non risultano sincronizzati con il portale clienti,Commerciale,bassa
+209,2026-01-03,Ordini non sincronizzati nel portale,Gli ordini inseriti nel sistema commerciale non risultano sincronizzati con il portale clienti.,Commerciale,bassa
+210,2026-01-03,Ordini non sincronizzati nel portale,Gli ordini inseriti nel sistema commerciale non risultano sincronizzati con il portale clienti,Commerciale,bassa
+211,2026-01-04,Stampante stampa caratteri errati,I documenti stampati presentano caratteri errati e simboli al posto del testo corretto,Tecnico,media
+212,2026-01-04,Problemi con cuffie audio,Le cuffie collegate al PC non funzionano correttamente e l’audio risulta intermittente durante le chiamate,Tecnico,media
+213,2026-01-04,Problemi con cuffie audio,Le cuffie collegate al PC non funzionano correttamente e l’audio risulta intermittente durante le chiamate,Tecnico,media
+214,2026-01-04,PC si spegne improvvisamente,"Il computer si spegne senza preavviso durante l’utilizzo, causando la perdita del lavoro non salvat",Tecnico,alta
+215,2026-01-04,errore invio conferma ordine,il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l'inserimento,Tecnico,bassa
+216,2026-01-04,errore invio conferma ordine,il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l'inserimento,Commerciale,alta
+217,2026-01-04,VPN non funzionate,Questa mattina non si collega la VPN e non riesco ad accedere al servizio,Tecnico,media
+218,2026-01-04,VPN non funzionante,"Questa mattina a tutto il reparto non funziona la VPN, richiesto vostro intervento",Tecnico,alta
+219,2026-01-04,Server interno lento,Il server interno risulta molto lento nel rispondere alle richieste e l’accesso alle applicazioni è rallentato per tutti gli utenti.,Tecnico,media
+220,2026-01-04,Accesso negato a funzionalità CRM,"Accedendo al CRM non riesco a utilizzare alcune funzionalità che prima erano disponibili, come la modifica delle offerte.",Commerciale,media
+221,2026-01-04,Cartella di rete non accessibile,La cartella di rete condivisa del reparto non è più accessibile e viene mostrato un messaggio di errore di percorso non trovato,Tecnico,alta
+222,2026-01-04,richiesta acquisto cartucce,Si richiede l'acquisto di n.10 cartucce colore nero per stampante ,Tecnico,media
+223,2026-01-05,Non riesco ad accedere al sistema,"Da questa mattina provo ad accedere al sistema ma mi dice che le credenziali non sono valide, anche se sono sicuro siano corrette.",Tecnico,bassa
+224,2026-01-05,Problemi con la stampa,"Sto cercando di stampare alcuni documenti ma non succede nulla, il lavoro resta in attesa e non parte la stampa.",Tecnico,media
+225,2026-01-05,Il computer è diventato molto lento,"Negli ultimi giorni il PC è molto lento sia all’avvio che durante l’utilizzo dei programmi, prima non succedeva.",Tecnico,media
+226,2026-01-05,Non vedo più un documento inserito,"Avevo inserito un documento ieri ma oggi non riesco più a trovarlo nel sistema, non so se è stato salvato correttamente.",Tecnico,bassa
+227,2026-01-05,Errore durante il salvataggio,Quando provo a salvare i dati compare un messaggio di errore e devo rifare tutto da capo,Tecnico,media
+228,2026-01-05,Problemi nel salvare una fattura,Quando provo a salvare una fattura il sistema si blocca e non completa l’operazione,Amministrazione,bassa
+229,2026-01-05,Offerta cliente non visibile,Ho inserito un’offerta ieri ma oggi non la vedo più nella scheda del cliente.,Commerciale,bassa
+230,2026-01-05,Non riesco ad accedere al CRM,Provo ad entrare nel CRM ma mi compare un messaggio di errore e non mi fa andare avanti.,Commerciale,media
+231,2026-01-05,Dati di pagamento non aggiornati,Nel sistema risultano ancora dei pagamenti non aggiornati anche se sono stati registrati giorni fa,Amministrazione,bassa
+232,2026-01-05,Connessione internet instabile,La connessione va e viene durante la giornata e spesso devo riconnettermi per continuare a lavorare.,Tecnico,media
+233,2026-01-05,stampante non online,Il mio sistema dice che la stampante di rete non è online e non riesco a stampare,Tecnico,media
+234,2026-01-05,stampante non online,Il mio sistema dice che la stampante di rete non è online e non riesco a stampare,Tecnico,media
+235,2026-01-05,stampante non online,Il mio sistema dice che la stampante di rete non è online e non riesco a stampare,Tecnico,media
+236,2026-01-05,stampante non online,Il mio sistema dice che la stampante di rete non è online e non riesco a stampare,Tecnico,media
+237,2026-01-06,Email ordine bloccate,Email di conferma ordine non partono,Commerciale,alta
+238,2026-01-08,errore,dopo l'apertura viene segnalato errore e non invio le fatture,Amministrazione,media
+239,2026-01-08,Outlook non sincronizza la posta,Outlook su Windows 11 non scarica più le nuove email da questa mattina. Da webmail funziona regolarmente,Tecnico,media
+240,2026-01-08,Stampante di rete non disponibile,La stampante del laboratorio A risulta “offline” anche se è accesa. Il problema riguarda più postazioni,Tecnico,alta
+241,2026-01-08,Il PC si blocca,Ogni tanto il computer si blocca e devo riavviare. Succede soprattutto quando lavoro con più finestre aperte.,Tecnico,alta
+242,2026-01-08,I numeri non tornano,Nel report vendite di questo mese ci sono dati che non coincidono con quelli del mese scorso.,Commerciale,media
+243,2026-01-08,Accesso software contabilità,Non riesco ad accedere al software di contabilità: il programma si apre ma non permette il login,Tecnico,media
+244,2026-01-08,Problema urgente con i documenti,Non trovo più dei documenti importanti e ho una scadenza oggi,Tecnico,alta
+245,2026-01-11,fattura non inviat,"Il sistema dopo che ho caricato la fattura del mese di Gennaio, non consente l'invio, potete fare una verifica?",Amministrazione,bassa
+246,2026-01-11,fattura non inviat,"Il sistema dopo che ho caricato la fattura del mese di Gennaio, non consente l'invio, potete fare una verifica?",Amministrazione,bassa
+247,2026-01-11,Errore nella chiusura contabile mensile,"dopo aver completato la contabilità mensile ed effettuo la chiusura, si genera un errore e non posso chiudere la contabilità",Amministrazione,bassa
+248,2026-01-15,errore invio ordine,il sistema commerciale non invia automaticamente le email di conferma ordine ai clienti dopo l'inserimento,Commerciale,alta
+249,2026-01-15,notebook tastiera,la tastiera del mio notebook non funziona,Tecnico,media
+250,2026-01-15,Fattura non inviata,"Il Sistema dopo che ho caricato la fattura del mese, non consente l'invio",Amministrazione,bassa
+251,2026-01-15,Non funziona più come prima,"Buongiorno,
+da stamattina il computer fa cose strane e non riesco a lavorare correttamente.
+Ieri funzionava tutto, oggi no.
+Ho provato a riavviare ma il problema rimane.
+Potete verificare per favore? È abbastanza urgente.",Tecnico,alta
+252,2026-01-16,Wifi non raggiungibile in Ufficio,Questa mattina non riesco a collegarmi alla Wifi dal mio Ufficio,Tecnico,media
+253,2026-01-18,mancata fattura mese Dicembre,"Buongiorno, sul portale amministrazione manca la fattura del mese di Dicembre, potete verificare?",Amministrazione,bassa
+254,2026-01-18,listino prezzi non aggiornato,"Ho notato che il listino prezzi non è aggiornato, potete caricare l'ultima versione?",Commerciale,bassa
+255,2026-01-18,WiFi assente,"Questa mattina le rete WiFi non è presente e non possiamo collegarci ad internet, richiediamo il vostro intervento",Tecnico,media
+256,2026-01-18,Schermate blu,Da questa mattina il mio PC mostra schermate blu di errore e non posso lavorare,Tecnico,media
+257,2026-01-18,schermate blu,Da questa mattina il mio pc visualizza delle schermate blu di errore e non posso lavorare,Tecnico,media
+258,2026-01-18,schermate blu,Da questa mattina il mio pc visualizza delle schermate blu di errore e non posso lavorare,Tecnico,alta
+259,2026-01-18,VPN out,Non riesco a collegarmi alla VPN e non posso accedere ai servizi,Tecnico,media
+260,2026-01-18,Schermate blu,Da questa mattina il mio pc visualizza delle schermate blu di errore e non posso lavorare,Tecnico,alta
+261,2026-01-18,smartphone non si accende,da questa mattina lo smartphone non si accende e lo schermo resta nero,Tecnico,alta
+262,2026-01-18,Schermate blu,Da questa mattina il mio pc visualizza delle schermate blu di errore e non posso lavorare,Tecnico,alta
+263,2026-01-18,Wifi stanza 12 out,"Nella mia stanza il WiFi non è funzionante, non si connette",Tecnico,media
+264,2026-01-18,Nota spese da correggere,"La nota spese del mese di Dicembre contiene degli errori, deve essere modificata, come posso fare?",Amministrazione,bassa
+265,2026-01-22,tastiera notebook non funzionante,"Da questa mattina la mia tastiera del notebook non funziona più, ho anche riavviato il sistema ma non funziona",Tecnico,alta
+266,2026-01-24,nota spese non aggiornata,ad oggi la mia nota spese non è stata ancora aggioranta,Amministrazione,bassa
+267,2026-01-26,Notebook da schermate blu,Questa mattina il mio notebook non si avvia e fa solo schermate blu,Tecnico,alta
+268,2026-01-28,Promozioni listino,Non riusciamo a inserire le promozioni sul sistema e non è possibile aggiornare il listino prezzi ,Commerciale,bassa
+269,2026-01-29,Richiesta supporto tecnico,Ho bisogno di assistenza,Amministrazione,bassa
+270,2026-01-29,Richiesta supporto tecnico,Ho bisogno di assistenza,Tecnico,media
+271,2026-01-29,Richiesta supporto tecnico,Richiesta supporto tecnico,Tecnico,bassa
+272,2026-01-29,problema sul contratto,Dubbi sul contratto con il fornitore,Tecnico,media
+273,2026-01-30,problema sul contratto,Dubbi sul contratto con il fornitore,Amministrazione,bassa
+274,2026-01-31,Schermate blu ,"Buongiorno, dopo un po' che lavoro con il mio laptop il sistema si blocca e visualizza una schermata blue si riavvia da solo, potete intervenire?",Tecnico,alta
+275,2026-02-03,portale vendite non accessibile,Il portale vendite risulta non accessibile da questa mattina,Commerciale,alta
+276,2026-02-05,impossibile collegarsi alla VPN,Non riusciamo a collegarci alla VPN da questa mattina,Tecnico,media
+277,2026-02-06,Ritardo consegna,Il prodotto o servizio non Š stato consegnato nei tempi previsti,Tecnico,media
+278,2026-02-06,Ritardo consegna,Il prodotto o servizio non Š stato consegnato nei tempi previsti,Commerciale,media
+279,2026-02-07,La postazione non si avvia,"All'accensione, il PC non parte: ventole ferme, nessuna luce",Tecnico,media
+280,2026-02-08,caricamento articoli a sistema,Questa mattina non è possibile caricare gli articoli sul gestionale,Tecnico,media
+281,2026-02-10,router non si collega,"il router 5G portatile non si collega a internet, visualizza una x rossa sul display",Tecnico,media
+282,2026-02-12,postazione di lavoro non si avvia,"All'accensione il pc non parte le ventole sono ferme e nessuna luce è accesa
+",Tecnico,media
+283,2026-02-19,Antivirus scaduto,"Buongiorno, come posso riattivare l'antivirus scaduto sul mio PC? ",Tecnico,alta
+284,2026-02-19,portale vendite non accessibile,"Questa mattina il portale vendita non è accessibile, non visualizza niente e in alto alla pagina visualizza un codice di errore, potete verificare?",Commerciale,alta
+285,2026-02-19,Onedrive non sincronizzata,"Buongiorno, da questa mattina il mio onedrive non è più sincronizzato, vedo una x rossa in basso sopra il logo di onedrive, potete intervenire?",Tecnico,bassa
+286,2026-02-19,fattura portale,non riusciamo a scaricare la fattura dal portale e ci serve per questa mattina,Amministrazione,bassa
+287,2026-02-19,listini prezzi,"Ciao, il listino prezzi non risulta aggiornato vedo ancora le vecchie offerte, si richiede aggiornamento",Commerciale,bassa
+288,2026-02-20,Bsod,Questa mattina il mio sistema visualizza le classiche schermate blu,Tecnico,alta
+289,2026-02-20,pagamenti fornitore falliti,"Carissimi ,questa mattina ho provato a fare i pagamenti sul portale ma sono andati falliti
+",Amministrazione,media
+290,2026-02-21,problemi con OneDrive,Da ieri le cartelle su Onedrive non si sincronizzano più e non posso vedere i file aggiornati modificati,Tecnico,bassa
+291,2026-02-24,Nota spese inserita a Gennaio,"Gentilissimi, non riesco a recuperare le informazioni della nota spese inserita a gennaio per la missione ""Greentach"", potete aiutarmi a recuperarla?",Amministrazione,bassa
+292,2026-03-10,Richiesta formazione software,Il nostro team avrebbe bisogno di una breve formazione sull'uso del software,Tecnico,alta
+293,2026-03-10,Richiesta formazione software,Il nostro team avrebbe bisogno di una breve formazione sull'uso del software,Tecnico,alta
+294,2026-03-10,Richiesta formazione software,Il nostro team avrebbe bisogno di una breve formazione sull'uso del software,Tecnico,alta
