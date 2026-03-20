@@ -27,7 +27,18 @@ I valori ottenuti corrispondono alle **Tabelle 1–2** riportate nell’elaborat
 
 
 ### Requisiti
-Dalla root del repository:
+
+
+Lo script deve essere eseguito dalla **root del repository** con l’ambiente virtuale attivo:
+
+```bash
+venv\Scripts\activate    # Windows
+```
+
+```bash
+source venv/bin/activate # macOS / Linux
+```
+
 ```bash
 pip install -r requirements.txt
 ```
