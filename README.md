@@ -63,7 +63,7 @@ Per una prova rapida senza setup locale è disponibile un'istanza **già deploya
 
 ---
 
-## Installazione ed Esecuzione
+## Installazione ed Esecuzione Locale
 
 ### Requisiti
 - Python 3.9+
