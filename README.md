@@ -66,7 +66,7 @@ Per una prova rapida senza setup locale è disponibile un'istanza **già deploya
 ## Installazione ed Esecuzione Locale
 
 ### Requisiti
-- Python 3.9+
+- Python 3.11
 - Dipendenze: `requirements.txt`
 
 ### Setup
