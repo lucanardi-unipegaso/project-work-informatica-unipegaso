@@ -54,6 +54,12 @@ project-work-informatica-unipegaso/
     ├── evaluate_baseline.py     # Confronto modelli vs DummyClassifier
     └── README.md                # Istruzioni e riproducibilità baseline
 ```
+## Deploy online
+Per una prova rapida senza setup locale è disponibile un'istanza **già deployata** della dashboard:
+
+- **URL**: https://www.pw.it
+
+> Nota: l'istanza online è destinata alla valutazione rapida dell'interfaccia e del flusso; la **riproducibilità completa** (training, valutazione, baseline) è garantita dalle istruzioni di esecuzione locale riportate di seguito.
 
 ---
 
