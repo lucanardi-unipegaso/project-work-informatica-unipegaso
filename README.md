@@ -77,9 +77,13 @@ git clone https://github.com/lucanardi-unipegaso/project-work-informatica-unipeg
 cd project-work-informatica-unipegaso
 ```
 
-### Crea l’ambiente virtuale (venv)
+### Crea l’ambiente virtuale (venv) Windows
 ```bash
 python -m venv venv
+```
+### Crea l’ambiente virtuale (venv) macOS / Linux
+```bash
+python3 -m venv venv
 ```
 
 ### Attiva il venv
