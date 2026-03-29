@@ -28,7 +28,7 @@ possano supportare il processo di smistamento iniziale dei ticket in modo sempli
 ---
 
 ## Tecnologie utilizzate
-- Python 3.9+  
+- Python 3.11
 - Streamlit  
 - scikit‑learn  
 - pandas, numpy  
