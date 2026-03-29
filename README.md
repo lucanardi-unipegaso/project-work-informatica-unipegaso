@@ -170,6 +170,6 @@ Il repository contiene tutti gli script necessari per replicare:
 
 I risultati riportati nell’elaborato sono ottenibili rieseguendo gli script presenti in scripts/.
 
-➡️ Istruzioni: vedere la cartella scripts/
+➡️ Istruzioni: vedere la cartella [scripts](scripts/)
 ``
 
