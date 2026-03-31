@@ -151,7 +151,7 @@ Categoria → LinearSVC nettamente superiore (F1 ≈ 0.99 vs 0.27–0.34)
 Priorità → Logistic Regression balanced supera le baseline (F1 ≈ 0.76 vs 0.21–0.40)
 
 Lo script di valutazione è disponibile in:
-python scripts/evaluate_baseline.py
+scripts/evaluate_baseline.py
 
 ### Limiti
 
@@ -168,7 +168,7 @@ Il repository contiene tutti gli script necessari per replicare:
 - baseline (DummyClassifier)
 - pipeline Streamlit
 
-I risultati riportati nell’elaborato sono ottenibili rieseguendo gli script presenti in scripts/.
+I risultati di comparazione riportati nell’elaborato sono ottenibili rieseguendo gli script presenti in scripts/.
 
 ➡️ Istruzioni: vedere la cartella [scripts](scripts/)
 ``
