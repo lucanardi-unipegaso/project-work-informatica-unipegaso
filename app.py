@@ -1397,7 +1397,7 @@ _COMM_BASSA_PAIRS = [
 # GREY ZONE — ticket media e bassa con vocabolario condiviso
 # Regola di etichettatura:
 #   BASSA = problema isolato, non impatta altri, workaround disponibile
-#   MEDIA = problema ricorrente O impatta il flusso di lavoro O su più utenti
+#   MEDIA = problema ricorrente o impatta il flusso di lavoro o su più utenti
 # La differenza è sottile e non emerge dal vocabolario 
 # ---------------------------------------------------------------------------
 _GREY_ZONE_BASSA = [
@@ -1591,7 +1591,7 @@ def generate_ticket_dataset(n_tickets=1000, random_state=42) -> pd.DataFrame:
         # ==================================================================
         # GREY ZONE media↔bassa (25%)
         # Ticket con vocabolario identico: stesse parole, etichette diverse.
-        # È il meccanismo che genera la confusione media↔bassa.
+        # genera la confusione media↔bassa.
         # ==================================================================
         if noise_roll < P_GREY:
             gz_ctx = np.random.choice(VAR_GZ_CONTEXT)
@@ -1720,7 +1720,7 @@ def generate_ticket_dataset(n_tickets=1000, random_state=42) -> pd.DataFrame:
             pri = "bassa" if pri == "media" else "media"
 
         # ------------------------------------------------------------------
-        # ANTI-DUPLICATI: inietta un suffisso contestuale casuale nei ticket
+        # ANTI-DUPLICATI:  suffisso contestuale casuale nei ticket
         # che non hanno già variabili {tempo}/{tentativo}/{impatto}/{ctx}.
         # ------------------------------------------------------------------
         _HAS_VAR = any(v in body for v in ['{tempo}','{tentativo}','{impatto}','{ctx}'])
